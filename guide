@@ -3,77 +3,77 @@
   <channel id="Eleven Sports 1">
     <display-name lang="en">ELEVEN SPORTS 1</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_1.png?raw=true"/>
   </channel>
   <channel id="Eleven Sports 2">
     <display-name lang="en">ELEVEN SPORTS 2</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_2.png?raw=true"/>
   </channel>
   <channel id="Eleven Sports 3">
     <display-name lang="en">ELEVEN SPORTS 3</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_3.png?raw=true"/>
   </channel>
   <channel id="Eleven Sports 4">
     <display-name lang="en">ELEVEN SPORTS 4</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_4.png?raw=true"/>
   </channel>
   <channel id="Eleven Sports 5">
     <display-name lang="en">ELEVEN SPORTS 5</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_5.png?raw=true"/>
   </channel>
   <channel id="Eleven Sports 6">
     <display-name lang="en">ELEVEN SPORTS 6</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://tos.elevensports.pt/wp-content/uploads/2020/08/ES-New-Logo-White.png"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Eleven_6.png?raw=true"/>
   </channel>
   <channel id="SPORT TV 1">
     <display-name lang="en">SPORT TV 1</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.sporttv.pt/img/static/sport-tv-institucional.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Sport_TV1.png?raw=true"/>
   </channel>
   <channel id="SPORT TV 2">
     <display-name lang="en">SPORT TV 2</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.sporttv.pt/img/static/sport-tv-institucional.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Sport_TV2.png?raw=true"/>
   </channel>
   <channel id="SPORT TV 3">
     <display-name lang="en">SPORT TV 3</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.sporttv.pt/img/static/sport-tv-institucional.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Sport_TV3.png?raw=true"/>
   </channel>
   <channel id="SPORT TV 4">
     <display-name lang="en">SPORT TV 4</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.sporttv.pt/img/static/sport-tv-institucional.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Sport_TV4.png?raw=true"/>
   </channel>
   <channel id="SPORT TV 5">
     <display-name lang="en">SPORT TV 5</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.sporttv.pt/img/static/sport-tv-institucional.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/Sport_TV5.png?raw=true"/>
   </channel>
   <channel id="TVCine">
     <display-name lang="en">TVCINE TOP</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.tvcine.pt/logo-top.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/TVCine_TOP.png?raw=true"/>
   </channel>
   <channel id="TVCine 2">
     <display-name lang="en">TVCINE EDITION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.tvcine.pt/logo-edition.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/TVCine_EDITION.png?raw=true"/>
   </channel>
   <channel id="TVCine 3">
     <display-name lang="en">TVCINE EMOTION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.tvcine.pt/logo-emotion.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/TVCine_EMOTION.png?raw=true"/>
   </channel>
   <channel id="TVCine 4">
     <display-name lang="en">TVCINE ACTION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://www.tvcine.pt/logo-action.svg"/>
+	<icon src="https://github.com/smarteight/IPTV/blob/main/logos/TVCine_ACTION.png?raw=true"/>
   </channel>
   <programme start="20210220000000 +0000" stop="20210220020000 +0000" channel="Eleven Sports 1">
     <title lang="en">Arminia x Wolfsburg - Bundesliga</title>
