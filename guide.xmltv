@@ -58,22 +58,22 @@
   <channel id="TVCine">
     <display-name lang="en">TVCINE TOP</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/blob/main/logos/TVCine_TOP.png"/>
+	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/TVCine_TOP.png"/>
   </channel>
   <channel id="TVCine 2">
     <display-name lang="en">TVCINE EDITION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/blob/main/logos/TVCine_EDITION.png"/>
+	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/TVCine_EDITION.png"/>
   </channel>
   <channel id="TVCine 3">
     <display-name lang="en">TVCINE EMOTION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/blob/main/logos/TVCine_EMOTION.png"/>
+	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/TVCine_EMOTION.png"/>
   </channel>
   <channel id="TVCine 4">
     <display-name lang="en">TVCINE ACTION</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/blob/main/logos/TVCine_ACTION.png"/>
+	<icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/TVCine_ACTION.png"/>
   </channel>
   <programme start="20210220000000 +0000" stop="20210220020000 +0000" channel="Eleven Sports 1">
     <title lang="en">Arminia x Wolfsburg - Bundesliga</title>
