@@ -85,9 +85,9 @@ http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21728
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21851
 #EXTINF:0 tvg-id="TVCINE TOP" tvg-country="PT" group-title="Cinema",TVCINE TOP
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21852
-#EXTINF:0 tvg-id="TVCINE TOP" tvg-country="PT" group-title="Desporto",TVCINE TOP
+#EXTINF:0 tvg-id="TVCINE TOP" tvg-country="PT" group-title="Cinema",TVCINE TOP
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/704314
-#EXTINF:0 tvg-id="TVCINE TOP" tvg-country="PT" group-title="Desporto",TVCINE TOP
+#EXTINF:0 tvg-id="TVCINE TOP" tvg-country="PT" group-title="Cinema",TVCINE TOP
 http://epiciptvrestreamer.com:8000/tonio/tonio/935
 #EXTINF:0 tvg-id="TVCINE EDITION" tvg-country="PT" group-title="Cinema",TVCINE EDITION
 http://stream.streamhubtv.xyz:8080/HOME1/HOME1/21854
