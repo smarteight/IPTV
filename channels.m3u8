@@ -1,0 +1,24 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV
+http://evdibac.com:80/307200112733/307200112733/81653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
+http://evdibac.com:80/307200112733/307200112733/81782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://evdibac.com:80/307200112733/307200112733/81650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
+http://evdibac.com:80/307200112733/307200112733/81781?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
+http://evdibac.com:80/307200112733/307200112733/81652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD NOS
+http://evdibac.com:80/307200112733/307200112733/81651?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
+http://evdibac.com:80/307200112733/307200112733/81649?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+http://evdibac.com:80/307200112733/307200112733/81646?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
+http://evdibac.com:80/307200112733/307200112733/81779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
+http://evdibac.com:80/307200112733/307200112733/81647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
+http://evdibac.com:80/307200112733/307200112733/81644?checkedby:iptvcat.com
