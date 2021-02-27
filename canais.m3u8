@@ -1,0 +1,56 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",GOL TV FHD
+http://media-kings.xyz:8080/tek1/tek1/148141?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ECU-GOL TV  (M)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/22160?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ECU-Gol TV Ecuador (M)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/22153?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ECU-Gol Tv (e)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",ECU-Gol Tv (e)(SD)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GOL TV HD
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/51565?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",GOL TV USA (tr)(720)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35575?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-GOL TV USA (tr)(720)
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35575?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 (SR)
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD (SR)
+http://rv.imax.re:80/691101116461401/691101116461401/85187?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 HD (SR)
+http://evdibac.com:80/307200112733/307200112733/85187?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 1 SR
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/424?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 1 HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/48?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 1 HR
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/916?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2
+http://evdibac.com:80/307200112733/307200112733/79037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2
+http://evdibac.com:80/307200112733/307200112733/78718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 Access HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/119529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 HD
+http://evdibac.com:80/307200112733/307200112733/78379?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/119531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sportdigital Fussball HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 (SR)
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/47847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 HD (HR)
+http://evdibac.com:80/307200112733/307200112733/85182?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",ARENA SPORT 2 SR
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/425?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2 HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/49?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 2 HR
+http://server.sibfungold.info:8080/texchange2020/Vd53Kmdbbxsewzp8/914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Premier Sports 2
+http://aldahya.us:80/1001256168/D1001256168/88144?checkedby:iptvcat.com
