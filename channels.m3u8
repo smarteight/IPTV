@@ -1,24 +1,24 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV
-http://evdibac.com:80/307200112733/307200112733/81653?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + HD
-http://evdibac.com:80/307200112733/307200112733/81782?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://evdibac.com:80/307200112733/307200112733/81650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://evdibac.com:80/307200112733/307200112733/81781?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://evdibac.com:80/307200112733/307200112733/81652?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD NOS
-http://evdibac.com:80/307200112733/307200112733/81651?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://evdibac.com:80/307200112733/307200112733/81649?checkedby:iptvcat.com
+http://37723998.to:2052/dale1/1234/196135?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://tvmedia2.com:8080/Hunter2/Hunter2/167763.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
+http://tvmedia2.com:8080/Hunter2/Hunter2/165243.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+http://tvmedia2.com:8080/Hunter2/Hunter2/167764.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
+http://tvmedia2.com:8080/Hunter2/Hunter2/165244.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
-http://evdibac.com:80/307200112733/307200112733/81646?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://evdibac.com:80/307200112733/307200112733/81779?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://evdibac.com:80/307200112733/307200112733/81647?checkedby:iptvcat.com
+http://tvmedia2.com:8080/Hunter2/Hunter2/167765.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+http://tvmedia2.com:8080/Hunter2/Hunter2/165245.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+http://37723998.to:2052/dale1/1234/196136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
+http://tvmedia2.com:8080/Hunter2/Hunter2/167766.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
-http://evdibac.com:80/307200112733/307200112733/81644?checkedby:iptvcat.com
+http://tvmedia2.com:8080/Hunter2/Hunter2/167767.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://37723998.to:2052/dale1/1234/196017?checkedby:iptvcat.com
