@@ -1,164 +1,77 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81777?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307242117531/307242117531/81642?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81642?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
-http://listamy.com:8080/Berto/Berto/393467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
-http://listamy.com:8080/cuco/cuco/393467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://listamy.com:8080/Berto/Berto/393468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81776?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://listamy.com:8080/Berto/Berto/393470?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://listamy.com:8080/cuco/cuco/393470?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81640?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS  3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81775?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 FHD
-http://listamy.com:8080/Berto/Berto/393471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 FHD
-http://listamy.com:8080/cuco/cuco/393471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307242117531/307242117531/81639?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 FHD
-http://iptv.nonoip.com:7000/jamila/jamila123/36403?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/Berto/Berto/393474?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://listamy.com:8080/cuco/cuco/393474?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307242117531/307242117531/81772?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307242117531/307242117531/81637?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",ELEVENSPORT 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/80755?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",ELEVENSPORT 4 HD
-http://rv.flysat.live:80/307242117531/307242117531/80754?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 1
-http://nomorecable.xyz:80/vmp343streams/850256/35889?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/25036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 2
-http://nomorecable.xyz:80/vmp343streams/850256/35890?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",Eleven Sports 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/25037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 3
-http://nomorecable.xyz:80/vmp343streams/850256/35891?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",Eleven Sports 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/24894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 4
-http://nomorecable.xyz:80/vmp343streams/850256/35892?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PL;PT" tvg-logo="" group-title="Sport",Eleven Sports 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/24895?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 5
-http://nomorecable.xyz:80/vmp343streams/850256/35893?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Eleven Sports 6
-http://nomorecable.xyz:80/vmp343streams/850256/35894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1
-http://nomorecable.xyz:80/vmp343streams/850256/18147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
-http://listamy.com:8080/Berto/Berto/393451?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1
-http://rv.flysat.live:80/307242117531/307242117531/81650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1
-http://pn.tvott.info:80/0174263561/8759368659/81650?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
-http://listamy.com:8080/Berto/Berto/393449?checkedby:iptvcat.com
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1258?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
-http://listamy.com:8080/cuco/cuco/393449?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18148?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://listamy.com:8080/Berto/Berto/393450?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://listamy.com:8080/cuco/cuco/393450?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1 HD
-http://pn.tvott.info:80/0174263561/8759368659/81652?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD NOS
-http://rv.flysat.live:80/307242117531/307242117531/81651?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 1 HD NOS
-http://pn.tvott.info:80/0174263561/8759368659/81651?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2
-http://nomorecable.xyz:80/vmp343streams/850256/18146?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2
-http://listamy.com:8080/Berto/Berto/393454?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
-http://rv.flysat.live:80/307242117531/307242117531/81648?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2
-http://pn.tvott.info:80/0174263561/8759368659/81648?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 FHD
-http://listamy.com:8080/Berto/Berto/393452?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18145?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://listamy.com:8080/Berto/Berto/393453?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://listamy.com:8080/cuco/cuco/393453?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81780?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://rv.flysat.live:80/307242117531/307242117531/81649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 2 HD
-http://pn.tvott.info:80/0174263561/8759368659/81649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3
-http://nomorecable.xyz:80/vmp343streams/850256/18144?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3
-http://pn.tvott.info:80/0174263561/8759368659/81646?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 FHD
-http://listamy.com:8080/Berto/Berto/393455?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 FHD
-http://listamy.com:8080/cuco/cuco/393455?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18143?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81779?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://rv.flysat.live:80/307242117531/307242117531/81647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 3 HD
-http://pn.tvott.info:80/0174263561/8759368659/81647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 4
-http://nomorecable.xyz:80/vmp343streams/850256/18142?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 4
-http://listamy.com:8080/Berto/Berto/393458?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 4
-http://pn.tvott.info:80/0174263561/8759368659/81645?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 4 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18141?checkedby:iptvcat.com
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwnxW4KHAyA6niIFmg9A_IVE2nAy0uK2rAyL5pKWjE81K/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwqb2ZkZBaFiY_l1WBaLC6TL5_IKEfBn0mv-zt_fBeeSe/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 FHD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23anTZRU62-XnV-kZRY7Bs0XWfRlniVc6MSLiVrLTx4_h6/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1265?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwnxW4KHAyA6niIFmg9A_IVFpbGjg_Ho_2Dk7UJs7leU2/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 FHD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23anTZRU62-XnV-kZRY7Bs0XWGvOEmNiXVyz-E-zVTJgIS/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 3 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23anTZRU62-XnV-kZRY7Bs0XVfluHrYeLeNEojdE_s9eaz/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwhtIhDOGRgeJNUcgxgQn6iFF2h77z4m5xsB69poG8kf0/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 HD
-http://listamy.com:8080/Berto/Berto/393457?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 4 HD
-http://listamy.com:8080/cuco/cuco/393457?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 5
-http://nomorecable.xyz:80/vmp343streams/850256/18140?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
-http://listamy.com:8080/Berto/Berto/393460?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
-http://pn.tvott.info:80/0174263561/8759368659/81644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 5 HD
-http://nomorecable.xyz:80/vmp343streams/850256/18139?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV 5 HD
-http://listamy.com:8080/Berto/Berto/393459?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV NBA
-http://listamy.com:8080/Berto/Berto/393445?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV NBA
-http://listamy.com:8080/cuco/cuco/393445?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",SPORT TV NBA HD
-http://rv.flysat.live:80/307242117531/307242117531/81778?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Sport TV 2
-http://sky-siptv.com:8000/jassica11/er1452000/27397?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Sport TV 3
-http://sky-siptv.com:8000/jassica11/er1452000/27401?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Sport TV 3 FHD
-http://sky-siptv.com:8000/jassica11/er1452000/27402?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT;RO" tvg-logo="" group-title="Sport",Sport TV 3 HD
-http://sky-siptv.com:8000/jassica11/er1452000/27403?checkedby:iptvcat.com
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1266?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4 HEVC
+http://bosstr.net:80/testskype1/6q60C0QwC4/57531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23aiPbhu3kib18jmQoioK-5pnk92wtCRwdD6RPNeA_cRuJ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1268?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwk51Z7C3optQVsEH9Y-5azONzY8AWCg45C4gBfphSrhC/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjHOWu8XcI8MuX3KFmU5uZw_9cmeXdSTLh_69XB--FsSS/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23auuKjFtvQF0ythBMy5PwMxDTb5gzngS9eOlqIMeV_mGE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwqsOmK94aenP4TsF1R6lZb6g6GxKi2pOatz-O2XB2i9V/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwk51Z7C3optQVsEH9Y-5azOGARsYDKnwIEOcOrjFPmLp/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1277?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1276?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23auuKjFtvQF0ythBMy5PwMxD40ykxG1vH_3yE4K0O3Pef/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1280?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 FHD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23atdpdpTF3EUmpKqMOVgQEDqsyqSp899wHG8NTm402d2Q/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1279?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwqsOmK94aenP4TsF1R6lZb7HHELYH2QvwsP7KLB9aHmB/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23auuKjFtvQF0ythBMy5PwMxDffuKpLwmGN5ZZdoJUTynv/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 SD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1278?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1281?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwk51Z7C3optQVsEH9Y-5azPgOOnOWwKLbv3FqkQSI-Ll/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
+http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjE_pNcPSB5kYx-TfYtqwks6PZtiZilWzN9EZwjY3RuIS/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 4 HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwqsOmK94aenP4TsF1R6lZb6FR1T-fnwbDWRKehFZm7E6/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1282?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 FHD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23atdpdpTF3EUmpKqMOVgQEDpsiSDOlsc_2QSXRvcbJ-VN/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 5 HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwqsOmK94aenP4TsF1R6lZb5Hp4oSDnzNntkYVY5cH2qO/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 FHD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/1283?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23auuKjFtvQF0ythBMy5PwMxA08zsevIBWvdSTetdZe1zH/ts?checkedby:iptvcat.com
