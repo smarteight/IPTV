@@ -1,1739 +1,1734 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Eleven Sports 1">
+  <channel id="ELEVEN SPORTS 1">
     <display-name lang="en">ELEVEN SPORTS 1</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-1.png">
   </channel>
-  <channel id="Eleven Sports 2">
+  <channel id="ELEVEN SPORTS 2">
     <display-name lang="en">ELEVEN SPORTS 2</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-2.png">
   </channel>
-  <channel id="Eleven Sports 3">
+  <channel id="ELEVEN SPORTS 3">
     <display-name lang="en">ELEVEN SPORTS 3</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-3.png">
   </channel>
-  <channel id="Eleven Sports 4">
+  <channel id="ELEVEN SPORTS 4">
     <display-name lang="en">ELEVEN SPORTS 4</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-4.png">
   </channel>
-  <channel id="Eleven Sports 5">
+  <channel id="ELEVEN SPORTS 5">
     <display-name lang="en">ELEVEN SPORTS 5</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-5.png">
   </channel>
-  <channel id="Eleven Sports 6">
+  <channel id="ELEVEN SPORTS 6">
     <display-name lang="en">ELEVEN SPORTS 6</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/eleven-6.png">
   </channel>
   <channel id="SPORT TV 1">
     <display-name lang="en">SPORT TV 1</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png">
   </channel>
   <channel id="SPORT TV 2">
     <display-name lang="en">SPORT TV 2</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png">
   </channel>
   <channel id="SPORT TV 3">
     <display-name lang="en">SPORT TV 3</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png">
   </channel>
   <channel id="SPORT TV 4">
     <display-name lang="en">SPORT TV 4</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png">
   </channel>
   <channel id="SPORT TV 5">
     <display-name lang="en">SPORT TV 5</display-name>
     <url>http://www.tudonumclick.com</url>
-	<icon src="#" />
+    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png">
   </channel>
-  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Troyes x PSG</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Troyes x PSG.(n)</desc>
   </programme>
-  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship: Blackburn x Swansea</title>
     <desc lang="en">Assista ao Jogo da Championship entre Blackburn x Swansea.(n)</desc>
   </programme>
-  <programme start="20210808040000 +0100" stop="20210808050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808040000 +0100" stop="20210808050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Momentos Decisivos</title>
     <desc lang="en">Reveja os momentos mais icónicos e decisivos da história da Champions League pelos olhos dos protagonistas que tornam esta competição tão especial.(n)</desc>
   </programme>
-  <programme start="20210808050000 +0100" stop="20210808071500 +0100" channel="Eleven Sports 1">
+  <programme start="20210808050000 +0100" stop="20210808071500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">ATP World Tour 250: ATP 250 Newport Singles 1/2 Final #2</title>
     <desc lang="en">Torneio profissional de ténis masculino, de nível internacional.(n)</desc>
   </programme>
-  <programme start="20210808071500 +0100" stop="20210808100000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808071500 +0100" stop="20210808100000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">ATP World Tour 250: ATP 250 Newport Singles Final</title>
     <desc lang="en">Torneio profissional de ténis masculino, de nível internacional.(n)</desc>
   </programme>
-  <programme start="20210808100000 +0100" stop="20210808103000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808100000 +0100" stop="20210808103000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">WTA Magazine Show</title>
     <desc lang="en">Conheça os torneios, as atletas, as histórias e todo o envolvimento do mundo do WTA, a competição de ténis feminino.(n)</desc>
   </programme>
-  <programme start="20210808103000 +0100" stop="20210808113000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808103000 +0100" stop="20210808113000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga Pré-temporada</title>
     <desc lang="en">Assista ao LaLiga Pré-temporado.(n)</desc>
   </programme>
-  <programme start="20210808113000 +0100" stop="20210808120000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808113000 +0100" stop="20210808120000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Perfil do Clube Época 21/22, Oly. Marseille</title>
     <desc lang="en">Conheça melhor a história do Olympique de Marseille recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808120000 +0100" stop="20210808140000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808120000 +0100" stop="20210808140000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Rennes x Lens &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Rennes x Lens.(n)</desc>
   </programme>
-  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Nice x Reims &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Nice x Reims.(n)</desc>
   </programme>
-  <programme start="20210808160000 +0100" stop="20210808180000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808160000 +0100" stop="20210808180000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Metz x Lille &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Metz x Lille.(n)</desc>
   </programme>
-  <programme start="20210808180000 +0100" stop="20210808181500 +0100" channel="Eleven Sports 1">
+  <programme start="20210808180000 +0100" stop="20210808181500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Perfil do Clube Época 21/22, Angers</title>
     <desc lang="en">Conheça melhor a história do Angers recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808181500 +0100" stop="20210808183000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808181500 +0100" stop="20210808183000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Perfil do Clube Época 21/22, Oly. Marseille</title>
     <desc lang="en">Conheça melhor a história do Olympique de Marseille recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808183000 +0100" stop="20210808194500 +0100" channel="Eleven Sports 1">
+  <programme start="20210808183000 +0100" stop="20210808194500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 A Temporada</title>
     <desc lang="en">Recorde todos os momentos que marcaram a época histórica da Ligue 1.(n)</desc>
   </programme>
-  <programme start="20210808194500 +0100" stop="20210808214500 +0100" channel="Eleven Sports 1">
+  <programme start="20210808194500 +0100" stop="20210808214500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Montpellier x Marseille &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Montpellier x Marseille.(n)</desc>
   </programme>
-  <programme start="20210808214500 +0100" stop="20210808220000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808214500 +0100" stop="20210808220000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Perfil do Clube Época 21/22, Angers</title>
     <desc lang="en">Conheça melhor a história do Angers recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="Eleven Sports 1">
+  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Metz x Lille</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Metz x Lille.(n)</desc>
   </programme>
-  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="Eleven Sports 1">
+  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Montpellier x Marseille</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Montpellier x Marseille.(n)</desc>
   </programme>
-  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="Eleven Sports 1">
+  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Metz x Lille</title>
   </programme>
-  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Montpellier x Marseille</title>
   </programme>
-  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship: Fulham x M´Boro</title>
   </programme>
-  <programme start="20210810040000 +0100" stop="20210810050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810040000 +0100" stop="20210810050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Momentos Decisivos</title>
   </programme>
-  <programme start="20210810050000 +0100" stop="20210810070000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810050000 +0100" stop="20210810070000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Blackburn Rovers x Leeds</title>
   </programme>
-  <programme start="20210810070000 +0100" stop="20210810090000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810070000 +0100" stop="20210810090000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Hertha Berlim</title>
   </programme>
-  <programme start="20210810090000 +0100" stop="20210810093000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810090000 +0100" stop="20210810093000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">WTA Magazine Show</title>
   </programme>
-  <programme start="20210810093000 +0100" stop="20210810103000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810093000 +0100" stop="20210810103000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Special - Antevisão da Temporada</title>
   </programme>
-  <programme start="20210810103000 +0100" stop="20210810113000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810103000 +0100" stop="20210810113000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210810113000 +0100" stop="20210810120000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810113000 +0100" stop="20210810120000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210810120000 +0100" stop="20210810123000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810120000 +0100" stop="20210810123000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">WTA Magazine Show</title>
   </programme>
-  <programme start="20210810123000 +0100" stop="20210810133000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810123000 +0100" stop="20210810133000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Special - Antevisão da Temporada</title>
   </programme>
-  <programme start="20210810133000 +0100" stop="20210810140000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810133000 +0100" stop="20210810140000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Arquivo 8, Finais 2018 &amp; 1994</title>
   </programme>
-  <programme start="20210810140000 +0100" stop="20210810150000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810140000 +0100" stop="20210810150000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Magazine</title>
   </programme>
-  <programme start="20210810150000 +0100" stop="20210810170000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810150000 +0100" stop="20210810170000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Athletic Club Bilbao</title>
   </programme>
-  <programme start="20210810170000 +0100" stop="20210810190000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810170000 +0100" stop="20210810190000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Brentford x Valencia</title>
   </programme>
-  <programme start="20210810190000 +0100" stop="20210810210000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810190000 +0100" stop="20210810210000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810210000 +0100" stop="20210810213000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810210000 +0100" stop="20210810213000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210810213000 +0100" stop="20210810221500 +0100" channel="Eleven Sports 1">
+  <programme start="20210810213000 +0100" stop="20210810221500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210810221500 +0100" stop="20210810233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810221500 +0100" stop="20210810233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210810233000 +0100" stop="20210810233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810233000 +0100" stop="20210810233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210810233000 +0100" stop="20210811003000 +0100" channel="Eleven Sports 1">
+  <programme start="20210810233000 +0100" stop="20210811003000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210811003000 +0100" stop="20210811023000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811003000 +0100" stop="20210811023000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna</title>
   </programme>
-  <programme start="20210811023000 +0100" stop="20210811030000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811023000 +0100" stop="20210811030000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210811030000 +0100" stop="20210811050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811030000 +0100" stop="20210811050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Jupiler Pro League: Anderlecht x Seraing</title>
   </programme>
-  <programme start="20210811050000 +0100" stop="20210811070000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811050000 +0100" stop="20210811070000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Fleetwood Town x Leeds</title>
   </programme>
-  <programme start="20210811070000 +0100" stop="20210811090000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811070000 +0100" stop="20210811090000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Leeds x Real Betis</title>
   </programme>
-  <programme start="20210811090000 +0100" stop="20210811093000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811090000 +0100" stop="20210811093000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210811093000 +0100" stop="20210811101500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811093000 +0100" stop="20210811101500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210811101500 +0100" stop="20210811121500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811101500 +0100" stop="20210811121500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna</title>
   </programme>
-  <programme start="20210811121500 +0100" stop="20210811124500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811121500 +0100" stop="20210811124500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210811124500 +0100" stop="20210811133000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811124500 +0100" stop="20210811133000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210811133000 +0100" stop="20210811140000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811133000 +0100" stop="20210811140000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Arquivo 10, Finais 1996 &amp; 2002</title>
   </programme>
-  <programme start="20210811140000 +0100" stop="20210811150000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811140000 +0100" stop="20210811150000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210811150000 +0100" stop="20210811170000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811150000 +0100" stop="20210811170000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna</title>
   </programme>
-  <programme start="20210811170000 +0100" stop="20210811180000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811170000 +0100" stop="20210811180000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Special - Antevisão da Temporada</title>
   </programme>
-  <programme start="20210811180000 +0100" stop="20210811181500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811180000 +0100" stop="20210811181500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Final da UCL, Filme Oficial</title>
   </programme>
-  <programme start="20210811181500 +0100" stop="20210811183000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811181500 +0100" stop="20210811183000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210811183000 +0100" stop="20210811184500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811183000 +0100" stop="20210811184500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Archive Mini-series, Como conquistamos</title>
   </programme>
-  <programme start="20210811184500 +0100" stop="20210811191500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811184500 +0100" stop="20210811191500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210811191500 +0100" stop="20210811200000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811191500 +0100" stop="20210811200000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210811200000 +0100" stop="20210811220000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811200000 +0100" stop="20210811220000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna</title>
   </programme>
-  <programme start="20210811220000 +0100" stop="20210811223000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811220000 +0100" stop="20210811223000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210811223000 +0100" stop="20210811224500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811223000 +0100" stop="20210811224500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210811224500 +0100" stop="20210811230000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811224500 +0100" stop="20210811230000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210811230000 +0100" stop="20210811233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811230000 +0100" stop="20210811233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210811233000 +0100" stop="20210811233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210811233000 +0100" stop="20210811233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210811233000 +0100" stop="20210812001500 +0100" channel="Eleven Sports 1">
+  <programme start="20210811233000 +0100" stop="20210812001500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210812001500 +0100" stop="20210812013000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812001500 +0100" stop="20210812013000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210812013000 +0100" stop="20210812020000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812013000 +0100" stop="20210812020000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210812020000 +0100" stop="20210812021500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812020000 +0100" stop="20210812021500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210812021500 +0100" stop="20210812023000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812021500 +0100" stop="20210812023000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210812023000 +0100" stop="20210812030000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812023000 +0100" stop="20210812030000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210812030000 +0100" stop="20210812050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812030000 +0100" stop="20210812050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership: Dundee United x Rangers</title>
   </programme>
-  <programme start="20210812050000 +0100" stop="20210812070000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812050000 +0100" stop="20210812070000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ajax x Leeds</title>
   </programme>
-  <programme start="20210812070000 +0100" stop="20210812090000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812070000 +0100" stop="20210812090000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Fleetwood Town x Leeds</title>
   </programme>
-  <programme start="20210812090000 +0100" stop="20210812100000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812090000 +0100" stop="20210812100000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Special - Antevisão da Temporada</title>
   </programme>
-  <programme start="20210812100000 +0100" stop="20210812103000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812100000 +0100" stop="20210812103000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210812103000 +0100" stop="20210812113000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812103000 +0100" stop="20210812113000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210812113000 +0100" stop="20210812120000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812113000 +0100" stop="20210812120000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210812120000 +0100" stop="20210812121500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812120000 +0100" stop="20210812121500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210812121500 +0100" stop="20210812123000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812121500 +0100" stop="20210812123000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210812123000 +0100" stop="20210812133000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812123000 +0100" stop="20210812133000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210812133000 +0100" stop="20210812140000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812133000 +0100" stop="20210812140000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Arquivo 9, Finais 2013 &amp; 2003</title>
   </programme>
-  <programme start="20210812140000 +0100" stop="20210812150000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812140000 +0100" stop="20210812150000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Special - Antevisão da Temporada</title>
   </programme>
-  <programme start="20210812150000 +0100" stop="20210812170000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812150000 +0100" stop="20210812170000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ajax x Leeds</title>
   </programme>
-  <programme start="20210812170000 +0100" stop="20210812173000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812170000 +0100" stop="20210812173000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Planeta ELEVEN</title>
   </programme>
-  <programme start="20210812173000 +0100" stop="20210812181500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812173000 +0100" stop="20210812181500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210812181500 +0100" stop="20210812191500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812181500 +0100" stop="20210812191500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210812191500 +0100" stop="20210812200000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812191500 +0100" stop="20210812200000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Pré-Match UEFA Supercup, Chelsea x Villarreal &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812200000 +0100" stop="20210812220000 +0100" channel="Eleven Sports 1">
+  <programme start="20210812200000 +0100" stop="20210812220000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liga Dos Campeões: Chelsea x Villarreal &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812220000 +0100" stop="20210812224500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812220000 +0100" stop="20210812224500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Pós-Match UEFA Supercup, Chelsea x Villarreal &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812224500 +0100" stop="20210812231500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812224500 +0100" stop="20210812231500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210812231500 +0100" stop="20210812234500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812231500 +0100" stop="20210812234500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Jupiler Pro League - Resumos da Jornada 3</title>
   </programme>
-  <programme start="20210812234500 +0100" stop="20210812234500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812234500 +0100" stop="20210812234500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liga Dos Campeões: Chelsea x Villarreal</title>
   </programme>
-  <programme start="20210812234500 +0100" stop="20210813014500 +0100" channel="Eleven Sports 1">
+  <programme start="20210812234500 +0100" stop="20210813014500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liga Dos Campeões: Chelsea x Villarreal</title>
   </programme>
-  <programme start="20210813014500 +0100" stop="20210813020000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813014500 +0100" stop="20210813020000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Final da UCL, Filme Oficial</title>
   </programme>
-  <programme start="20210813020000 +0100" stop="20210813023000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813020000 +0100" stop="20210813023000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210813023000 +0100" stop="20210813030000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813023000 +0100" stop="20210813030000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210813030000 +0100" stop="20210813050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813030000 +0100" stop="20210813050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship: Blackburn x Swansea</title>
   </programme>
-  <programme start="20210813050000 +0100" stop="20210813070000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813050000 +0100" stop="20210813070000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Leeds x Real Betis</title>
   </programme>
-  <programme start="20210813070000 +0100" stop="20210813090000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813070000 +0100" stop="20210813090000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Brentford x Valencia</title>
   </programme>
-  <programme start="20210813090000 +0100" stop="20210813100000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813090000 +0100" stop="20210813100000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210813100000 +0100" stop="20210813103000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813100000 +0100" stop="20210813103000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210813103000 +0100" stop="20210813113000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813103000 +0100" stop="20210813113000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Magazine</title>
   </programme>
-  <programme start="20210813113000 +0100" stop="20210813120000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813113000 +0100" stop="20210813120000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210813120000 +0100" stop="20210813123000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813120000 +0100" stop="20210813123000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Jupiler Pro League - Resumos da Jornada 3</title>
   </programme>
-  <programme start="20210813123000 +0100" stop="20210813133000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813123000 +0100" stop="20210813133000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813133000 +0100" stop="20210813140000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813133000 +0100" stop="20210813140000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">UCL Finals Archive Series</title>
   </programme>
-  <programme start="20210813140000 +0100" stop="20210813143000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813140000 +0100" stop="20210813143000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813143000 +0100" stop="20210813144500 +0100" channel="Eleven Sports 1">
+  <programme start="20210813143000 +0100" stop="20210813144500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210813144500 +0100" stop="20210813150000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813144500 +0100" stop="20210813150000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210813150000 +0100" stop="20210813170000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813150000 +0100" stop="20210813170000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liga Dos Campeões: Chelsea x Villarreal</title>
   </programme>
-  <programme start="20210813170000 +0100" stop="20210813171500 +0100" channel="Eleven Sports 1">
+  <programme start="20210813170000 +0100" stop="20210813171500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Final da UCL, Filme Oficial</title>
   </programme>
-  <programme start="20210813171500 +0100" stop="20210813174500 +0100" channel="Eleven Sports 1">
+  <programme start="20210813171500 +0100" stop="20210813174500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210813174500 +0100" stop="20210813180000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813174500 +0100" stop="20210813180000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210813180000 +0100" stop="20210813190000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813180000 +0100" stop="20210813190000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813190000 +0100" stop="20210813193000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813190000 +0100" stop="20210813193000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813193000 +0100" stop="20210813194500 +0100" channel="Eleven Sports 1">
+  <programme start="20210813193000 +0100" stop="20210813194500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210813194500 +0100" stop="20210813200000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813194500 +0100" stop="20210813200000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210813200000 +0100" stop="20210813203000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813200000 +0100" stop="20210813203000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Jupiler Pro League - Resumos da Jornada 3</title>
   </programme>
-  <programme start="20210813203000 +0100" stop="20210813210000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813203000 +0100" stop="20210813210000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210813210000 +0100" stop="20210813230000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813210000 +0100" stop="20210813230000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Barça TV</title>
   </programme>
-  <programme start="20210813230000 +0100" stop="20210813233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813230000 +0100" stop="20210813233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Weekly 1</title>
   </programme>
-  <programme start="20210813233000 +0100" stop="20210813233000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813233000 +0100" stop="20210813233000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813233000 +0100" stop="20210814003000 +0100" channel="Eleven Sports 1">
+  <programme start="20210813233000 +0100" stop="20210814003000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210814003000 +0100" stop="20210814010000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814003000 +0100" stop="20210814010000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210814010000 +0100" stop="20210814021500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814010000 +0100" stop="20210814021500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210814021500 +0100" stop="20210814023000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814021500 +0100" stop="20210814023000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210814023000 +0100" stop="20210814030000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814023000 +0100" stop="20210814030000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210814030000 +0100" stop="20210814050000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814030000 +0100" stop="20210814050000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1: Troyes x PSG</title>
   </programme>
-  <programme start="20210814050000 +0100" stop="20210814070000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814050000 +0100" stop="20210814070000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Athletic Club Bilbao</title>
   </programme>
-  <programme start="20210814070000 +0100" stop="20210814090000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814070000 +0100" stop="20210814090000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Liverpool x Osasuna</title>
   </programme>
-  <programme start="20210814090000 +0100" stop="20210814091500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814090000 +0100" stop="20210814091500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Final da UCL, Filme Oficial</title>
   </programme>
-  <programme start="20210814091500 +0100" stop="20210814111500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814091500 +0100" stop="20210814111500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Barça TV</title>
   </programme>
-  <programme start="20210814111500 +0100" stop="20210814123000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814111500 +0100" stop="20210814123000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210814123000 +0100" stop="20210814131500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814123000 +0100" stop="20210814131500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Tiki-Tática</title>
   </programme>
-  <programme start="20210814131500 +0100" stop="20210814134500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814131500 +0100" stop="20210814134500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210814134500 +0100" stop="20210814154500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814134500 +0100" stop="20210814154500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Barça TV</title>
   </programme>
-  <programme start="20210814154500 +0100" stop="20210814161500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814154500 +0100" stop="20210814161500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Weekly 1</title>
   </programme>
-  <programme start="20210814161500 +0100" stop="20210814164500 +0100" channel="Eleven Sports 1">
+  <programme start="20210814161500 +0100" stop="20210814164500 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Ligue 1 Preview RD02</title>
   </programme>
-  <programme start="20210814164500 +0100" stop="20210814173000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814164500 +0100" stop="20210814173000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
   </programme>
-  <programme start="20210814173000 +0100" stop="20210814193000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814173000 +0100" stop="20210814193000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga 2: Schalke x Aue &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814193000 +0100" stop="20210814213000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814193000 +0100" stop="20210814213000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga: M’Gladbach x Bayern &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814213000 +0100" stop="20210814220000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814213000 +0100" stop="20210814220000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga Analysis</title>
   </programme>
-  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="Eleven Sports 1">
+  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">Bundesliga 2: Schalke x Aue</title>
   </programme>
-  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Scottish Premiership: Dundee United x Rangers</title>
     <desc lang="en">Assista ao jogo da Scottish Premiership entre Dundee United x Rangers.(n)</desc>
   </programme>
-  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship: Sheffield x Birm´Ham</title>
     <desc lang="en">Assista ao Jogo da Championship entre Sheffield x Birm´Ham.(n)</desc>
   </programme>
-  <programme start="20210808040000 +0100" stop="20210808050000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808040000 +0100" stop="20210808050000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
     <desc lang="en">A antevisão dos jogos da próxima jornada do campeonato alemão de futebol. Entrevistas e reportagens exclusivas com os protagonistas Bundesliga.(n)</desc>
   </programme>
-  <programme start="20210808050000 +0100" stop="20210808070000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808050000 +0100" stop="20210808070000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Liverpool x FC Bologna “B”</title>
     <desc lang="en">Assista ao Jogos Amigáveis entre Liverpool x FC Bologna “B.(n)</desc>
   </programme>
-  <programme start="20210808070000 +0100" stop="20210808090000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808070000 +0100" stop="20210808090000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Brentford x Valencia</title>
     <desc lang="en">Assista ao Jogos Amigáveis entre Brentford x Valencia.(n)</desc>
   </programme>
-  <programme start="20210808090000 +0100" stop="20210808120000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808090000 +0100" stop="20210808120000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Nfl: Steelers x Cowboys</title>
     <desc lang="en">Assista ao melhor futebol americano neste jogo entre Steelers x Cowboys.(n)</desc>
   </programme>
-  <programme start="20210808120000 +0100" stop="20210808121500 +0100" channel="Eleven Sports 2">
+  <programme start="20210808120000 +0100" stop="20210808121500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Final Da UCL, Filme Oficial</title>
     <desc lang="en">Assista ao Final da UCL: Filme Oficial.(n)</desc>
   </programme>
-  <programme start="20210808121500 +0100" stop="20210808131500 +0100" channel="Eleven Sports 2">
+  <programme start="20210808121500 +0100" stop="20210808131500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
     <desc lang="en">Assista ao LaLiga Pré-temporado.(n)</desc>
   </programme>
-  <programme start="20210808131500 +0100" stop="20210808133000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808131500 +0100" stop="20210808133000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Perfil Do Clube Época 21/22, Angers</title>
     <desc lang="en">Conheça melhor a história do Angers recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808133000 +0100" stop="20210808140000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808133000 +0100" stop="20210808140000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Perfil Do Clube Época 21/22, Oly. Marseille</title>
     <desc lang="en">Conheça melhor a história do Olympique de Marseille recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1: Saint-Étienne x Lorient &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Saint-Étienne x Lorient.(n)</desc>
   </programme>
-  <programme start="20210808160000 +0100" stop="20210808180000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808160000 +0100" stop="20210808180000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Brentford x Valencia &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao Jogos Amigáveis entre Brentford x Valencia.(n)</desc>
   </programme>
-  <programme start="20210808180000 +0100" stop="20210808183000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808180000 +0100" stop="20210808183000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga - Melhores Defesas</title>
     <desc lang="en">Assista as melhores defesas da LaLiga.(n)</desc>
   </programme>
-  <programme start="20210808183000 +0100" stop="20210808193000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808183000 +0100" stop="20210808193000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
     <desc lang="en">A antevisão dos jogos da próxima jornada do campeonato alemão de futebol. Entrevistas e reportagens exclusivas com os protagonistas Bundesliga.(n)</desc>
   </programme>
-  <programme start="20210808193000 +0100" stop="20210808213000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808193000 +0100" stop="20210808213000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship: Fulham x M´Boro</title>
     <desc lang="en">Assista ao Jogo da Championship entre Fulham x M´Boro.(n)</desc>
   </programme>
-  <programme start="20210808213000 +0100" stop="20210808233000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808213000 +0100" stop="20210808233000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Liverpool x Athletic Club Bilbao</title>
     <desc lang="en">Assista ao Jogos Amigáveis entre Liverpool x Athletic Club Bilbao.(n)</desc>
   </programme>
-  <programme start="20210808233000 +0100" stop="20210808233000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808233000 +0100" stop="20210808233000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship: Coventry x N. Forest</title>
     <desc lang="en">Assista ao Jogo da Championship entre Coventry x N. Forest.(n)</desc>
   </programme>
-  <programme start="20210808233000 +0100" stop="20210809013000 +0100" channel="Eleven Sports 2">
+  <programme start="20210808233000 +0100" stop="20210809013000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship: Coventry x N. Forest</title>
   </programme>
-  <programme start="20210809013000 +0100" stop="20210809033000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809013000 +0100" stop="20210809033000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Brentford x Valencia</title>
   </programme>
-  <programme start="20210809033000 +0100" stop="20210809040000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809033000 +0100" stop="20210809040000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga - Melhores Defesas</title>
   </programme>
-  <programme start="20210809040000 +0100" stop="20210809050000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809040000 +0100" stop="20210809050000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
   </programme>
-  <programme start="20210809050000 +0100" stop="20210809070000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809050000 +0100" stop="20210809070000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Monaco x Nantes - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210809070000 +0100" stop="20210809090000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809070000 +0100" stop="20210809090000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bournemouth x West Brom - Championship</title>
   </programme>
-  <programme start="20210809090000 +0100" stop="20210809110000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809090000 +0100" stop="20210809110000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Lyon x Brest - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210809110000 +0100" stop="20210809130000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809110000 +0100" stop="20210809130000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Club Brugge x Cercle Brugge - Jupiler Pro League</title>
   </programme>
-  <programme start="20210809130000 +0100" stop="20210809140000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809130000 +0100" stop="20210809140000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
   </programme>
-  <programme start="20210809140000 +0100" stop="20210809143000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809140000 +0100" stop="20210809143000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">LaLiga - Os melhores momentos</title>
   </programme>
-  <programme start="20210809143000 +0100" stop="20210809154500 +0100" channel="Eleven Sports 2">
+  <programme start="20210809143000 +0100" stop="20210809154500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210809154500 +0100" stop="20210809174500 +0100" channel="Eleven Sports 2">
+  <programme start="20210809154500 +0100" stop="20210809174500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Monaco x Nantes - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210809174500 +0100" stop="20210809184500 +0100" channel="Eleven Sports 2">
+  <programme start="20210809174500 +0100" stop="20210809184500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
   </programme>
-  <programme start="20210809184500 +0100" stop="20210809200000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809184500 +0100" stop="20210809200000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210809200000 +0100" stop="20210809210000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809200000 +0100" stop="20210809210000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
   </programme>
-  <programme start="20210809210000 +0100" stop="20210809230000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809210000 +0100" stop="20210809230000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Lyon x Brest - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210809230000 +0100" stop="20210810000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210809230000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
   </programme>
-  <programme start="20210810000000 +0100" stop="20210810230000 +0100" channel="Eleven Sports 2">
+  <programme start="20210810000000 +0100" stop="20210810230000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Club Brugge x Cercle Brugge - Jupiler Pro League</title>
   </programme>
-  <programme start="20210810230000 +0100" stop="20210811000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210810230000 +0100" stop="20210811000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Laliga Pré-Temporada</title>
   </programme>
-  <programme start="20210811000000 +0100" stop="20210811020000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811000000 +0100" stop="20210811020000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Club Brugge x Cercle Brugge - Jupiler Pro League</title>
   </programme>
-  <programme start="20210811020000 +0100" stop="20210811040000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811020000 +0100" stop="20210811040000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Monaco x Nantes - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210811040000 +0100" stop="20210811050000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811040000 +0100" stop="20210811050000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
   </programme>
-  <programme start="20210811050000 +0100" stop="20210811070000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811050000 +0100" stop="20210811070000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Dundee United x Rangers - Scottish Premiership</title>
   </programme>
-  <programme start="20210811070000 +0100" stop="20210811090000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811070000 +0100" stop="20210811090000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Lyon x Brest - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210811090000 +0100" stop="20210811110000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811090000 +0100" stop="20210811110000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Blackburn x Swansea - Championship</title>
   </programme>
-  <programme start="20210811110000 +0100" stop="20210811130000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811110000 +0100" stop="20210811130000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Troyes x PSG - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210811130000 +0100" stop="20210811140000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811130000 +0100" stop="20210811140000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
   </programme>
-  <programme start="20210811140000 +0100" stop="20210811143000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811140000 +0100" stop="20210811143000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210811143000 +0100" stop="20210811154500 +0100" channel="Eleven Sports 2">
+  <programme start="20210811143000 +0100" stop="20210811154500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210811154500 +0100" stop="20210811174500 +0100" channel="Eleven Sports 2">
+  <programme start="20210811154500 +0100" stop="20210811174500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Fulham x M´Boro - Championship</title>
   </programme>
-  <programme start="20210811174500 +0100" stop="20210811184500 +0100" channel="Eleven Sports 2">
+  <programme start="20210811174500 +0100" stop="20210811184500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210811184500 +0100" stop="20210811200000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811184500 +0100" stop="20210811200000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210811200000 +0100" stop="20210811210000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811200000 +0100" stop="20210811210000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210811210000 +0100" stop="20210811234500 +0100" channel="Eleven Sports 2">
+  <programme start="20210811210000 +0100" stop="20210811234500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">City TV - Magazine</title>
   </programme>
-  <programme start="20210811234500 +0100" stop="20210812000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210811234500 +0100" stop="20210812000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Final da UCL: Filme Oficial</title>
   </programme>
-  <programme start="20210812000000 +0100" stop="20210812234500 +0100" channel="Eleven Sports 2">
+  <programme start="20210812000000 +0100" stop="20210812234500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Troyes x PSG - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210812234500 +0100" stop="20210813000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210812234500 +0100" stop="20210813000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Final da UCL: Filme Oficial</title>
   </programme>
-  <programme start="20210813000000 +0100" stop="20210813020000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813000000 +0100" stop="20210813020000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Troyes x PSG - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210813020000 +0100" stop="20210813040000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813020000 +0100" stop="20210813040000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Anderlecht x Seraing - Jupiler Pro League</title>
   </programme>
-  <programme start="20210813040000 +0100" stop="20210813050000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813040000 +0100" stop="20210813050000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">LaLiga Pré-temporada</title>
   </programme>
-  <programme start="20210813050000 +0100" stop="20210813070000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813050000 +0100" stop="20210813070000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Rennes x Lens - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210813070000 +0100" stop="20210813090000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813070000 +0100" stop="20210813090000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">St. Truiden x Waregen - Jupiler Pro League</title>
   </programme>
-  <programme start="20210813090000 +0100" stop="20210813110000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813090000 +0100" stop="20210813110000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Nice x Reims - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210813110000 +0100" stop="20210813130000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813110000 +0100" stop="20210813130000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Fulham x M´Boro - Championship</title>
   </programme>
-  <programme start="20210813130000 +0100" stop="20210813140000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813130000 +0100" stop="20210813140000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813140000 +0100" stop="20210813141500 +0100" channel="Eleven Sports 2">
+  <programme start="20210813140000 +0100" stop="20210813141500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210813141500 +0100" stop="20210813143000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813141500 +0100" stop="20210813143000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210813143000 +0100" stop="20210813154500 +0100" channel="Eleven Sports 2">
+  <programme start="20210813143000 +0100" stop="20210813154500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210813154500 +0100" stop="20210813174500 +0100" channel="Eleven Sports 2">
+  <programme start="20210813154500 +0100" stop="20210813174500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Troyes x PSG - Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20210813174500 +0100" stop="20210813184500 +0100" channel="Eleven Sports 2">
+  <programme start="20210813174500 +0100" stop="20210813184500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Special - Antevisão Da Temporada</title>
   </programme>
-  <programme start="20210813184500 +0100" stop="20210813200000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813184500 +0100" stop="20210813200000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bundesliga Clubs</title>
   </programme>
-  <programme start="20210813200000 +0100" stop="20210813203000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813200000 +0100" stop="20210813203000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Championship - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210813203000 +0100" stop="20210813204500 +0100" channel="Eleven Sports 2">
+  <programme start="20210813203000 +0100" stop="20210813204500 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Scottish Premiership - Resumos da Jornada 2</title>
   </programme>
-  <programme start="20210813204500 +0100" stop="20210813210000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813204500 +0100" stop="20210813210000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Paul Gasol – Em viagem com DeLorean</title>
   </programme>
-  <programme start="20210813210000 +0100" stop="20210813230000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813210000 +0100" stop="20210813230000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Anderlecht x Seraing - Jupiler Pro League</title>
   </programme>
-  <programme start="20210813230000 +0100" stop="20210814000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210813230000 +0100" stop="20210814000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210814000000 +0100" stop="20210814230000 +0100" channel="Eleven Sports 2">
+  <programme start="20210814000000 +0100" stop="20210814230000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Bournemouth x West Brom - Championship</title>
   </programme>
-  <programme start="20210814230000 +0100" stop="20210815000000 +0100" channel="Eleven Sports 2">
+  <programme start="20210814230000 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 2">
     <title lang="en">Ligue 1 - Resumos da Jornada 1</title>
   </programme>
-  <programme start="20210808000000 +0100" stop="20210808023000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808000000 +0100" stop="20210808023000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Resumo New Hampshire Motor Speedway</title>
     <desc lang="en">Reveja os melhores momentos da NASCAR CUP Series 2021.(n)</desc>
   </programme>
-  <programme start="20210808023000 +0100" stop="20210808050000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808023000 +0100" stop="20210808050000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210808050000 +0100" stop="20210808100000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808050000 +0100" stop="20210808100000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210808100000 +0100" stop="20210808121500 +0100" channel="Eleven Sports 3">
+  <programme start="20210808100000 +0100" stop="20210808121500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Hungria</title>
     <desc lang="en">Reveja os melhores momentos do GP de Hungria de 2021.(n)</desc>
   </programme>
-  <programme start="20210808121500 +0100" stop="20210808123000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808121500 +0100" stop="20210808123000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Os melhores Team Radios - Hungria 2021</title>
     <desc lang="en">Os melhores rádios do GP Hungria 2021.(n)</desc>
   </programme>
-  <programme start="20210808123000 +0100" stop="20210808140000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808123000 +0100" stop="20210808140000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Londres - Corrida #2 - Formula E</title>
     <desc lang="en">Assista a Formula E, E-Prix Londres - Corrida #2.(n)</desc>
   </programme>
-  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Bordeaux x Clermont - Ligue 1 Uber Eats &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Bordeaux x Clermont.(n)</desc>
   </programme>
-  <programme start="20210808160000 +0100" stop="20210808163000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808160000 +0100" stop="20210808163000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Os melhores On Boards - GP Hungria 2021</title>
     <desc lang="en">As lutas e as ultrapassagens vistas do monocoque.(n)</desc>
   </programme>
-  <programme start="20210808163000 +0100" stop="20210808183000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808163000 +0100" stop="20210808183000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Coventry x N. Forest - Championship &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao Jogo da Championship entre Coventry x N. Forest.(n)</desc>
   </programme>
-  <programme start="20210808183000 +0100" stop="20210808193000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808183000 +0100" stop="20210808193000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Hungria - Corrida - Porsche SuperCup</title>
     <desc lang="en">Duas vitórias para ten Voorde e uma para Evans. Quem leva a melhor na quarta corrida da temporada.(n)</desc>
   </programme>
-  <programme start="20210808193000 +0100" stop="20210808200000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808193000 +0100" stop="20210808200000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: The Pace Lap</title>
     <desc lang="en">A atualidade da NASCAR CUP SERIES em análise.(n)</desc>
   </programme>
-  <programme start="20210808200000 +0100" stop="20210809000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210808200000 +0100" stop="20210809000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Nascar Cup Series - Watkins Glen International &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao Nascar Cup Series.(n)</desc>
   </programme>
-  <programme start="20210809000000 +0100" stop="20210809200000 +0100" channel="Eleven Sports 3">
+  <programme start="20210809000000 +0100" stop="20210809200000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Melhores Momentos Londres #1</title>
     <desc lang="en">Assista aos melhores momentos do E-Prix de Londres.(n)</desc>
   </programme>
-  <programme start="20210809200000 +0100" stop="20210810000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210809200000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Nascar Cup Series - Watkins Glen International &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810000000 +0100" stop="20210810001500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810000000 +0100" stop="20210810001500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Melhores Momentos Londres #1</title>
   </programme>
-  <programme start="20210810001500 +0100" stop="20210810004500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810001500 +0100" stop="20210810004500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Baquet</title>
   </programme>
-  <programme start="20210810004500 +0100" stop="20210810010000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810004500 +0100" stop="20210810010000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Melhores Momentos Londres #2</title>
   </programme>
-  <programme start="20210810010000 +0100" stop="20210810013000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810010000 +0100" stop="20210810013000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Fora de Estrada</title>
   </programme>
-  <programme start="20210810013000 +0100" stop="20210810014500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810013000 +0100" stop="20210810014500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Os melhores On Boards - GP Hungria 2021</title>
   </programme>
-  <programme start="20210810014500 +0100" stop="20210810021500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810014500 +0100" stop="20210810021500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Baquet</title>
   </programme>
-  <programme start="20210810021500 +0100" stop="20210810023000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810021500 +0100" stop="20210810023000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Os melhores Team Radios - Hungria 2021</title>
   </programme>
-  <programme start="20210810023000 +0100" stop="20210810050000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810023000 +0100" stop="20210810050000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810050000 +0100" stop="20210810100000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810050000 +0100" stop="20210810100000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810100000 +0100" stop="20210810111500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810100000 +0100" stop="20210810111500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Nova Iorque - Corrida #1</title>
   </programme>
-  <programme start="20210810111500 +0100" stop="20210810123000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810111500 +0100" stop="20210810123000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Nova Iorque - Corrida #2</title>
   </programme>
-  <programme start="20210810123000 +0100" stop="20210810133000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810123000 +0100" stop="20210810133000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Superbike, Misano World Circuit “Marco Simoncelli” #1</title>
   </programme>
-  <programme start="20210810133000 +0100" stop="20210810143000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810133000 +0100" stop="20210810143000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Moto 3, Misano World Circuit “Marco Simoncelli” #1</title>
   </programme>
-  <programme start="20210810143000 +0100" stop="20210810160000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810143000 +0100" stop="20210810160000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Estíria</title>
   </programme>
-  <programme start="20210810160000 +0100" stop="20210810161500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810160000 +0100" stop="20210810161500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Melhores Momentos Londres #1</title>
   </programme>
-  <programme start="20210810161500 +0100" stop="20210810171500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810161500 +0100" stop="20210810171500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Hungria - Corrida 1 - Formula 3</title>
   </programme>
-  <programme start="20210810171500 +0100" stop="20210810183000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810171500 +0100" stop="20210810183000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Grã-Bretanha - Corrida Sprint 1 - Formula 2</title>
   </programme>
-  <programme start="20210810183000 +0100" stop="20210810184500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810183000 +0100" stop="20210810184500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores On Boards - GP Hungria 2021</title>
   </programme>
-  <programme start="20210810184500 +0100" stop="20210810191500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810184500 +0100" stop="20210810191500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Top 10 Momentos -</title>
   </programme>
-  <programme start="20210810191500 +0100" stop="20210810210000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810191500 +0100" stop="20210810210000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Áustria</title>
   </programme>
-  <programme start="20210810210000 +0100" stop="20210810213000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810210000 +0100" stop="20210810213000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Top 10 Momentos -</title>
   </programme>
-  <programme start="20210810213000 +0100" stop="20210810220000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810213000 +0100" stop="20210810220000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Top 10 Momentos -</title>
   </programme>
-  <programme start="20210810220000 +0100" stop="20210810223000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810220000 +0100" stop="20210810223000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Fora de Estrada T2 EP16</title>
   </programme>
-  <programme start="20210810223000 +0100" stop="20210810234500 +0100" channel="Eleven Sports 3">
+  <programme start="20210810223000 +0100" stop="20210810234500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Grã-Bretanha - Corrida - Formula 2</title>
   </programme>
-  <programme start="20210810234500 +0100" stop="20210811000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210810234500 +0100" stop="20210811000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores Team Radios - Hungria 2021</title>
   </programme>
-  <programme start="20210811000000 +0100" stop="20210811234500 +0100" channel="Eleven Sports 3">
+  <programme start="20210811000000 +0100" stop="20210811234500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Resumo Road America</title>
   </programme>
-  <programme start="20210811234500 +0100" stop="20210812000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210811234500 +0100" stop="20210812000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores Team Radios - Hungria 2021</title>
   </programme>
-  <programme start="20210812000000 +0100" stop="20210812020000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812000000 +0100" stop="20210812020000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Resumo Road America</title>
   </programme>
-  <programme start="20210812020000 +0100" stop="20210812023000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812020000 +0100" stop="20210812023000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Fora de Estrada T2 EP16</title>
   </programme>
-  <programme start="20210812023000 +0100" stop="20210812050000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812023000 +0100" stop="20210812050000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812050000 +0100" stop="20210812100000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812050000 +0100" stop="20210812100000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812100000 +0100" stop="20210812111500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812100000 +0100" stop="20210812111500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Londres - Corrida #1</title>
   </programme>
-  <programme start="20210812111500 +0100" stop="20210812123000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812111500 +0100" stop="20210812123000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Londres - Corrida #2</title>
   </programme>
-  <programme start="20210812123000 +0100" stop="20210812131500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812123000 +0100" stop="20210812131500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Superbike, Misano World Circuit “Marco Simoncelli” #2</title>
   </programme>
-  <programme start="20210812131500 +0100" stop="20210812133000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812131500 +0100" stop="20210812133000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Melhores Momentos Londres #1</title>
   </programme>
-  <programme start="20210812133000 +0100" stop="20210812143000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812133000 +0100" stop="20210812143000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Moto 3, Misano World Circuit “Marco Simoncelli” #2</title>
   </programme>
-  <programme start="20210812143000 +0100" stop="20210812161500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812143000 +0100" stop="20210812161500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Áustria</title>
   </programme>
-  <programme start="20210812161500 +0100" stop="20210812171500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812161500 +0100" stop="20210812171500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Hungria - Corrida 2 - Formula 3</title>
   </programme>
-  <programme start="20210812171500 +0100" stop="20210812183000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812171500 +0100" stop="20210812183000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Grã-Bretanha - Corrida Sprint 2 - Formula 2</title>
   </programme>
-  <programme start="20210812183000 +0100" stop="20210812184500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812183000 +0100" stop="20210812184500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores Team Radios - Hungria 2021</title>
   </programme>
-  <programme start="20210812184500 +0100" stop="20210812191500 +0100" channel="Eleven Sports 3">
+  <programme start="20210812184500 +0100" stop="20210812191500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Fora de Estrada T2 EP16</title>
   </programme>
-  <programme start="20210812191500 +0100" stop="20210812210000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812191500 +0100" stop="20210812210000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Grã-Bretanha</title>
   </programme>
-  <programme start="20210812210000 +0100" stop="20210812213000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812210000 +0100" stop="20210812213000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Confidential</title>
   </programme>
-  <programme start="20210812213000 +0100" stop="20210812220000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812213000 +0100" stop="20210812220000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: The Pace Lap</title>
   </programme>
-  <programme start="20210812220000 +0100" stop="20210812220000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812220000 +0100" stop="20210812220000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Nascar Cup Series - Watkins Glen International</title>
   </programme>
-  <programme start="20210812220000 +0100" stop="20210813020000 +0100" channel="Eleven Sports 3">
+  <programme start="20210812220000 +0100" stop="20210813020000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Nascar Cup Series - Watkins Glen International</title>
   </programme>
-  <programme start="20210813020000 +0100" stop="20210813023000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813020000 +0100" stop="20210813023000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Confidential</title>
   </programme>
-  <programme start="20210813023000 +0100" stop="20210813050000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813023000 +0100" stop="20210813050000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210813050000 +0100" stop="20210813100000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813050000 +0100" stop="20210813100000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210813100000 +0100" stop="20210813103000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813100000 +0100" stop="20210813103000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: The Pace Lap</title>
   </programme>
-  <programme start="20210813103000 +0100" stop="20210813143000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813103000 +0100" stop="20210813143000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Nascar Cup Series - Watkins Glen International</title>
   </programme>
-  <programme start="20210813143000 +0100" stop="20210813161500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813143000 +0100" stop="20210813161500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Grã-Bretanha</title>
   </programme>
-  <programme start="20210813161500 +0100" stop="20210813171500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813161500 +0100" stop="20210813171500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Hungria - Corrida 3 - Formula 3</title>
   </programme>
-  <programme start="20210813171500 +0100" stop="20210813183000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813171500 +0100" stop="20210813183000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Grã-Bretanha - Corrida - Formula 2</title>
   </programme>
-  <programme start="20210813183000 +0100" stop="20210813191500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813183000 +0100" stop="20210813191500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Formula E Magazine #8</title>
   </programme>
-  <programme start="20210813191500 +0100" stop="20210813213000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813191500 +0100" stop="20210813213000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Resumo F1 2021, GP Hungria</title>
   </programme>
-  <programme start="20210813213000 +0100" stop="20210813224500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813213000 +0100" stop="20210813224500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: E-Prix Londres - Corrida #1</title>
   </programme>
-  <programme start="20210813224500 +0100" stop="20210813231500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813224500 +0100" stop="20210813231500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: GP Confidential</title>
   </programme>
-  <programme start="20210813231500 +0100" stop="20210813234500 +0100" channel="Eleven Sports 3">
+  <programme start="20210813231500 +0100" stop="20210813234500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Fora de Estrada T2 EP16</title>
   </programme>
-  <programme start="20210813234500 +0100" stop="20210814000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210813234500 +0100" stop="20210814000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores On Boards - GP Hungria 2021</title>
   </programme>
-  <programme start="20210814000000 +0100" stop="20210814234500 +0100" channel="Eleven Sports 3">
+  <programme start="20210814000000 +0100" stop="20210814234500 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Automobilismo: Resumo Atlanta Motor Speedway</title>
   </programme>
-  <programme start="20210814234500 +0100" stop="20210815000000 +0100" channel="Eleven Sports 3">
+  <programme start="20210814234500 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="en">Os melhores On Boards - GP Hungria 2021</title>
   </programme>
-  <programme start="20210808210000 +0100" stop="20210809010000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808010000 +0100" stop="20210808050000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809010000 +0100" stop="20210809050000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808050000 +0100" stop="20210808090000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809050000 +0100" stop="20210809090000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808090000 +0100" stop="20210808130000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809090000 +0100" stop="20210809130000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808130000 +0100" stop="20210808140000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809130000 +0100" stop="20210809140000 +0100" channel="Eleven Sports 4">
-    <title lang="en">Sem Emissão</title>
-    <desc lang="en">Sem Emissão.(n)</desc>
-  </programme>
-  <programme start="20210809140000 +0100" stop="20210809160000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Strasbourg x Angers - Ligue 1 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Ligue 1 Uber Eats entre Strasbourg x Angers.(n)</desc>
   </programme>
-  <programme start="20210809160000 +0100" stop="20210809170000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808160000 +0100" stop="20210808170000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ligue 1 A Temporada</title>
     <desc lang="en">Recorde todos os momentos que marcaram a época histórica da Ligue 1.(n)</desc>
   </programme>
-  <programme start="20210809170000 +0100" stop="20210809173000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808170000 +0100" stop="20210808173000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ligue 1 - Perfil do Clube Época 21/22: Angers</title>
     <desc lang="en">Conheça melhor a história do Angers recordando imagens e personagens históricas do clube.(n)</desc>
   </programme>
-  <programme start="20210809173000 +0100" stop="20210809193000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808173000 +0100" stop="20210808193000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Anderlecht x Seraing - Jupiler Pro League &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Assista ao jogo da Jupiler Pro League entre Anderlecht x Seraing.(n)</desc>
   </programme>
-  <programme start="20210809193000 +0100" stop="20210809210000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808193000 +0100" stop="20210808210000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809210000 +0100" stop="20210809210000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808210000 +0100" stop="20210808210000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
     <desc lang="en">Sem Emissão.(n)</desc>
   </programme>
-  <programme start="20210809210000 +0100" stop="20210810010000 +0100" channel="Eleven Sports 4">
+  <programme start="20210808210000 +0100" stop="20210809010000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810010000 +0100" stop="20210810050000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809010000 +0100" stop="20210809050000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810050000 +0100" stop="20210810090000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809050000 +0100" stop="20210809090000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810090000 +0100" stop="20210810130000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809090000 +0100" stop="20210809130000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810130000 +0100" stop="20210810153000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809130000 +0100" stop="20210809153000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810153000 +0100" stop="20210810160000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809153000 +0100" stop="20210809160000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA Magazine Show</title>
   </programme>
-  <programme start="20210810160000 +0100" stop="20210810180000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809160000 +0100" stop="20210809180000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #1 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810180000 +0100" stop="20210810200000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809180000 +0100" stop="20210809200000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #2 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810200000 +0100" stop="20210810220000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809200000 +0100" stop="20210809220000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #3 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810220000 +0100" stop="20210811000000 +0100" channel="Eleven Sports 4">
+  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #4 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210811000000 +0100" stop="20210811220000 +0100" channel="Eleven Sports 4">
+  <programme start="20210810000000 +0100" stop="20210810220000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #5 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210811220000 +0100" stop="20210812000000 +0100" channel="Eleven Sports 4">
+  <programme start="20210810220000 +0100" stop="20210811000000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #4 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812000000 +0100" stop="20210812020000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811000000 +0100" stop="20210811020000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #5 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812020000 +0100" stop="20210812040000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811020000 +0100" stop="20210811040000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #6 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812040000 +0100" stop="20210812050000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811040000 +0100" stop="20210811050000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812050000 +0100" stop="20210812090000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811050000 +0100" stop="20210811090000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812090000 +0100" stop="20210812130000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811090000 +0100" stop="20210811130000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812130000 +0100" stop="20210812154500 +0100" channel="Eleven Sports 4">
+  <programme start="20210811130000 +0100" stop="20210811154500 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812154500 +0100" stop="20210812160000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811154500 +0100" stop="20210811160000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Custom Series</title>
   </programme>
-  <programme start="20210812160000 +0100" stop="20210812180000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811160000 +0100" stop="20210811180000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #7 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812180000 +0100" stop="20210812200000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811180000 +0100" stop="20210811200000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #8 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812200000 +0100" stop="20210812220000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811200000 +0100" stop="20210811220000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #9 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812220000 +0100" stop="20210813000000 +0100" channel="Eleven Sports 4">
+  <programme start="20210811220000 +0100" stop="20210812000000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #10 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210813000000 +0100" stop="20210813220000 +0100" channel="Eleven Sports 4">
+  <programme start="20210812000000 +0100" stop="20210812220000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #11 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210813220000 +0100" stop="20210814000000 +0100" channel="Eleven Sports 4">
+  <programme start="20210812220000 +0100" stop="20210813000000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #10 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814000000 +0100" stop="20210814020000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813000000 +0100" stop="20210813020000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #11 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814020000 +0100" stop="20210814040000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813020000 +0100" stop="20210813040000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #12 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814040000 +0100" stop="20210814050000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813040000 +0100" stop="20210813050000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814050000 +0100" stop="20210814090000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813050000 +0100" stop="20210813090000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814090000 +0100" stop="20210814130000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813090000 +0100" stop="20210813130000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814130000 +0100" stop="20210814163000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813130000 +0100" stop="20210813163000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814163000 +0100" stop="20210814164500 +0100" channel="Eleven Sports 4">
+  <programme start="20210813163000 +0100" stop="20210813164500 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Custom Series</title>
   </programme>
-  <programme start="20210814164500 +0100" stop="20210814170000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813164500 +0100" stop="20210813170000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Custom Series</title>
   </programme>
-  <programme start="20210814170000 +0100" stop="20210814180000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813170000 +0100" stop="20210813180000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #13 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814180000 +0100" stop="20210814200000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813180000 +0100" stop="20210813200000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #14 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814200000 +0100" stop="20210814220000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813200000 +0100" stop="20210813220000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #15 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="Eleven Sports 4">
+  <programme start="20210813220000 +0100" stop="20210814000000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #16 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="Eleven Sports 5">
+  <programme start="20210814000000 +0100" stop="20210814220000 +0100" channel="ELEVEN SPORTS 4">
+    <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #17 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 4">
+    <title lang="en">Ténis: WTA 1000 - National Bank Open (Montreal) #16 &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808040000 +0100" stop="20210808060000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808040000 +0100" stop="20210808060000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808060000 +0100" stop="20210808080000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808060000 +0100" stop="20210808080000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808080000 +0100" stop="20210808100000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808080000 +0100" stop="20210808100000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808100000 +0100" stop="20210808120000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808100000 +0100" stop="20210808120000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808120000 +0100" stop="20210808133000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808120000 +0100" stop="20210808133000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808133000 +0100" stop="20210808153000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808133000 +0100" stop="20210808153000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Fulham x M´Boro - Championship &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210808153000 +0100" stop="20210808180000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808153000 +0100" stop="20210808180000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808180000 +0100" stop="20210808200000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808180000 +0100" stop="20210808200000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808200000 +0100" stop="20210808220000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808200000 +0100" stop="20210808220000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="Eleven Sports 5">
+  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="Eleven Sports 5">
+  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="Eleven Sports 5">
+  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210810040000 +0100" stop="20210810050000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810040000 +0100" stop="20210810050000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Eleven 5</title>
   </programme>
-  <programme start="20210810050000 +0100" stop="20210810170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810050000 +0100" stop="20210810170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810170000 +0100" stop="20210810170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810170000 +0100" stop="20210810170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210810170000 +0100" stop="20210811050000 +0100" channel="Eleven Sports 5">
+  <programme start="20210810170000 +0100" stop="20210811050000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210811050000 +0100" stop="20210811170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210811050000 +0100" stop="20210811170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210811170000 +0100" stop="20210811170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210811170000 +0100" stop="20210811170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210811170000 +0100" stop="20210812050000 +0100" channel="Eleven Sports 5">
+  <programme start="20210811170000 +0100" stop="20210812050000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812050000 +0100" stop="20210812170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210812050000 +0100" stop="20210812170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812170000 +0100" stop="20210812170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210812170000 +0100" stop="20210812170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210812170000 +0100" stop="20210813050000 +0100" channel="Eleven Sports 5">
+  <programme start="20210812170000 +0100" stop="20210813050000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210813050000 +0100" stop="20210813170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210813050000 +0100" stop="20210813170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210813170000 +0100" stop="20210813170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210813170000 +0100" stop="20210813170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210813170000 +0100" stop="20210814050000 +0100" channel="Eleven Sports 5">
+  <programme start="20210813170000 +0100" stop="20210814050000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814050000 +0100" stop="20210814170000 +0100" channel="Eleven Sports 5">
+  <programme start="20210814050000 +0100" stop="20210814170000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814170000 +0100" stop="20210814190000 +0100" channel="Eleven Sports 5">
+  <programme start="20210814170000 +0100" stop="20210814190000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210814190000 +0100" stop="20210814210000 +0100" channel="Eleven Sports 5">
+  <programme start="20210814190000 +0100" stop="20210814210000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Huesca x Eibar - LaLiga Smartbank &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814210000 +0100" stop="20210815000000 +0100" channel="Eleven Sports 5">
+  <programme start="20210814210000 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="en">Sem Emissão</title>
   </programme>
-  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808000000 +0100" stop="20210808020000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808020000 +0100" stop="20210808040000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808040000 +0100" stop="20210808060000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808040000 +0100" stop="20210808060000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808060000 +0100" stop="20210808080000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808060000 +0100" stop="20210808080000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808080000 +0100" stop="20210808100000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808080000 +0100" stop="20210808100000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808100000 +0100" stop="20210808120000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808100000 +0100" stop="20210808120000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808120000 +0100" stop="20210808133000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808120000 +0100" stop="20210808133000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808133000 +0100" stop="20210808153000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808133000 +0100" stop="20210808153000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">St. Liege x Antwerp - Jupiler Pro League &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210808153000 +0100" stop="20210808180000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808153000 +0100" stop="20210808180000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808180000 +0100" stop="20210808200000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808180000 +0100" stop="20210808200000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808200000 +0100" stop="20210808220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808200000 +0100" stop="20210808220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210808220000 +0100" stop="20210809000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210809000000 +0100" stop="20210809220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210809220000 +0100" stop="20210810000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810000000 +0100" stop="20210810020000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810020000 +0100" stop="20210810040000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810040000 +0100" stop="20210810060000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810040000 +0100" stop="20210810060000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810060000 +0100" stop="20210810080000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810060000 +0100" stop="20210810080000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810080000 +0100" stop="20210810100000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810080000 +0100" stop="20210810100000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810100000 +0100" stop="20210810120000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810100000 +0100" stop="20210810120000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810120000 +0100" stop="20210810140000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810120000 +0100" stop="20210810140000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810140000 +0100" stop="20210810160000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810140000 +0100" stop="20210810160000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810160000 +0100" stop="20210810180000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810160000 +0100" stop="20210810180000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810180000 +0100" stop="20210810200000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810180000 +0100" stop="20210810200000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810200000 +0100" stop="20210810220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810200000 +0100" stop="20210810220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210810220000 +0100" stop="20210811000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210810220000 +0100" stop="20210811000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210811000000 +0100" stop="20210811220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210811000000 +0100" stop="20210811220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210811220000 +0100" stop="20210812000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210811220000 +0100" stop="20210812000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812000000 +0100" stop="20210812020000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812000000 +0100" stop="20210812020000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812020000 +0100" stop="20210812040000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812020000 +0100" stop="20210812040000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812040000 +0100" stop="20210812060000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812040000 +0100" stop="20210812060000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812060000 +0100" stop="20210812080000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812060000 +0100" stop="20210812080000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812080000 +0100" stop="20210812100000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812080000 +0100" stop="20210812100000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812100000 +0100" stop="20210812120000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812100000 +0100" stop="20210812120000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812120000 +0100" stop="20210812140000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812120000 +0100" stop="20210812140000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812140000 +0100" stop="20210812160000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812140000 +0100" stop="20210812160000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812160000 +0100" stop="20210812180000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812160000 +0100" stop="20210812180000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812180000 +0100" stop="20210812200000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812180000 +0100" stop="20210812200000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812200000 +0100" stop="20210812220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812200000 +0100" stop="20210812220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210812220000 +0100" stop="20210813000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210812220000 +0100" stop="20210813000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210813000000 +0100" stop="20210813220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210813000000 +0100" stop="20210813220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210813220000 +0100" stop="20210814000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210813220000 +0100" stop="20210814000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814000000 +0100" stop="20210814020000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814000000 +0100" stop="20210814020000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814020000 +0100" stop="20210814040000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814020000 +0100" stop="20210814040000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814040000 +0100" stop="20210814060000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814040000 +0100" stop="20210814060000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814060000 +0100" stop="20210814080000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814060000 +0100" stop="20210814080000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814080000 +0100" stop="20210814100000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814080000 +0100" stop="20210814100000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814100000 +0100" stop="20210814120000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814100000 +0100" stop="20210814120000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814120000 +0100" stop="20210814140000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814120000 +0100" stop="20210814140000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814140000 +0100" stop="20210814160000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814140000 +0100" stop="20210814160000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814160000 +0100" stop="20210814180000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814160000 +0100" stop="20210814180000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814180000 +0100" stop="20210814200000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814180000 +0100" stop="20210814200000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814200000 +0100" stop="20210814220000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814200000 +0100" stop="20210814220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="Eleven Sports 6">
+  <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="en">ELEVEN 6</title>
   </programme>
-  <programme start="20210808224000 +0100" stop="20210809005000 +0100" channel="SPORT TV 1">
-    <title lang="en">Moreirense x Benfica - Primeira Liga</title>
-    <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
-  </programme>
-  <programme start="20210809005000 +0100" stop="20210809012000 +0100" channel="SPORT TV 1">
+  <programme start="20210808005000 +0100" stop="20210808012000 +0100" channel="SPORT TV 1">
     <title lang="en">Bétis x Roma - Jogo de Preparação</title>
     <desc lang="en">Transmissão do jogo de caráter particular.(n)</desc>
   </programme>
-  <programme start="20210809012000 +0100" stop="20210809015000 +0100" channel="SPORT TV 1">
+  <programme start="20210808012000 +0100" stop="20210808015000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
     <desc lang="en">Transmissão do encontro a contar para a Community Shield.(n)</desc>
   </programme>
-  <programme start="20210809015000 +0100" stop="20210809022000 +0100" channel="SPORT TV 1">
+  <programme start="20210808015000 +0100" stop="20210808022000 +0100" channel="SPORT TV 1">
     <title lang="en">Moreirense x Benfica - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809022000 +0100" stop="20210809023000 +0100" channel="SPORT TV 1">
+  <programme start="20210808022000 +0100" stop="20210808023000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: Golos - Sporting x Vizela - Primeira Liga</title>
     <desc lang="en">Reveja os melhores momentos da Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809023000 +0100" stop="20210809030000 +0100" channel="SPORT TV 1">
+  <programme start="20210808023000 +0100" stop="20210808030000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane</title>
     <desc lang="en">Acompanhe o melhor de UFC.(n)</desc>
   </programme>
-  <programme start="20210809030000 +0100" stop="20210809060000 +0100" channel="SPORT TV 1">
+  <programme start="20210808030000 +0100" stop="20210808060000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Acompanhe o melhor de UFC.(n)</desc>
   </programme>
-  <programme start="20210809060000 +0100" stop="20210809063000 +0100" channel="SPORT TV 1">
+  <programme start="20210808060000 +0100" stop="20210808063000 +0100" channel="SPORT TV 1">
     <title lang="en">Sporting x Vizela - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809063000 +0100" stop="20210809084000 +0100" channel="SPORT TV 1">
+  <programme start="20210808063000 +0100" stop="20210808084000 +0100" channel="SPORT TV 1">
     <title lang="en">Marítimo x SC Braga - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809084000 +0100" stop="20210809110000 +0100" channel="SPORT TV 1">
+  <programme start="20210808084000 +0100" stop="20210808110000 +0100" channel="SPORT TV 1">
     <title lang="en">Moreirense x Benfica - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809110000 +0100" stop="20210809132000 +0100" channel="SPORT TV 1">
+  <programme start="20210808110000 +0100" stop="20210808132000 +0100" channel="SPORT TV 1">
     <title lang="en">E. Amadora x Mafra - Segunda Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do jogo a contar para a Segunda Liga.(n)</desc>
   </programme>
-  <programme start="20210809132000 +0100" stop="20210809140000 +0100" channel="SPORT TV 1">
+  <programme start="20210808132000 +0100" stop="20210808140000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
     <desc lang="en">Transmissão do encontro a contar para a Community Shield.(n)</desc>
   </programme>
-  <programme start="20210809140000 +0100" stop="20210809160000 +0100" channel="SPORT TV 1">
+  <programme start="20210808140000 +0100" stop="20210808160000 +0100" channel="SPORT TV 1">
     <title lang="en">Rio Ave x Académica - Segunda Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do jogo a contar para a Segunda Liga.(n)</desc>
   </programme>
-  <programme start="20210809160000 +0100" stop="20210809163000 +0100" channel="SPORT TV 1">
+  <programme start="20210808160000 +0100" stop="20210808163000 +0100" channel="SPORT TV 1">
     <title lang="en">Sporting x Vizela - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809163000 +0100" stop="20210809170000 +0100" channel="SPORT TV 1">
+  <programme start="20210808163000 +0100" stop="20210808170000 +0100" channel="SPORT TV 1">
     <title lang="en">Moreirense x Benfica - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809170000 +0100" stop="20210809180000 +0100" channel="SPORT TV 1">
+  <programme start="20210808170000 +0100" stop="20210808180000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga (Antevisão)</title>
     <desc lang="en">Transmissão da Antevisão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809180000 +0100" stop="20210809203000 +0100" channel="SPORT TV 1">
+  <programme start="20210808180000 +0100" stop="20210808203000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809203000 +0100" stop="20210809224000 +0100" channel="SPORT TV 1">
+  <programme start="20210808203000 +0100" stop="20210808224000 +0100" channel="SPORT TV 1">
     <title lang="en">P. Ferreira x Famalicão - Primeira Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809224000 +0100" stop="20210809224000 +0100" channel="SPORT TV 1">
+  <programme start="20210808224000 +0100" stop="20210808224000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga</title>
     <desc lang="en">Transmissão do jogo a contar para a Primeira Liga.(n)</desc>
   </programme>
-  <programme start="20210809224000 +0100" stop="20210810005000 +0100" channel="SPORT TV 1">
+  <programme start="20210808224000 +0100" stop="20210809005000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga</title>
   </programme>
-  <programme start="20210810005000 +0100" stop="20210810024000 +0100" channel="SPORT TV 1">
+  <programme start="20210809005000 +0100" stop="20210809024000 +0100" channel="SPORT TV 1">
     <title lang="en">Barcelona x Juventus - Jogo de Preparação</title>
   </programme>
-  <programme start="20210810024000 +0100" stop="20210810031000 +0100" channel="SPORT TV 1">
+  <programme start="20210809024000 +0100" stop="20210809031000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210810031000 +0100" stop="20210810041000 +0100" channel="SPORT TV 1">
+  <programme start="20210809031000 +0100" stop="20210809041000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane</title>
   </programme>
-  <programme start="20210810041000 +0100" stop="20210810060000 +0100" channel="SPORT TV 1">
+  <programme start="20210809041000 +0100" stop="20210809060000 +0100" channel="SPORT TV 1">
     <title lang="en">Ténis: ATP World Tour 500 - Final Washington</title>
   </programme>
-  <programme start="20210810060000 +0100" stop="20210810061000 +0100" channel="SPORT TV 1">
+  <programme start="20210809060000 +0100" stop="20210809061000 +0100" channel="SPORT TV 1">
     <title lang="en">Ténis: ATP World Tour 500 - Final Washington</title>
   </programme>
-  <programme start="20210810061000 +0100" stop="20210810064000 +0100" channel="SPORT TV 1">
+  <programme start="20210809061000 +0100" stop="20210809064000 +0100" channel="SPORT TV 1">
     <title lang="en">Moreirense x Benfica - Primeira Liga</title>
   </programme>
-  <programme start="20210810064000 +0100" stop="20210810071000 +0100" channel="SPORT TV 1">
+  <programme start="20210809064000 +0100" stop="20210809071000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga</title>
   </programme>
-  <programme start="20210810071000 +0100" stop="20210810091000 +0100" channel="SPORT TV 1">
+  <programme start="20210809071000 +0100" stop="20210809091000 +0100" channel="SPORT TV 1">
     <title lang="en">Rio Ave x Académica - Segunda Liga</title>
   </programme>
-  <programme start="20210810091000 +0100" stop="20210810112000 +0100" channel="SPORT TV 1">
+  <programme start="20210809091000 +0100" stop="20210809112000 +0100" channel="SPORT TV 1">
     <title lang="en">Tondela x Santa Clara - Primeira Liga</title>
   </programme>
-  <programme start="20210810112000 +0100" stop="20210810133000 +0100" channel="SPORT TV 1">
+  <programme start="20210809112000 +0100" stop="20210809133000 +0100" channel="SPORT TV 1">
     <title lang="en">Vitória SC x Portimonense - Primeira Liga</title>
   </programme>
-  <programme start="20210810133000 +0100" stop="20210810154000 +0100" channel="SPORT TV 1">
+  <programme start="20210809133000 +0100" stop="20210809154000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga</title>
   </programme>
-  <programme start="20210810154000 +0100" stop="20210810180000 +0100" channel="SPORT TV 1">
+  <programme start="20210809154000 +0100" stop="20210809180000 +0100" channel="SPORT TV 1">
     <title lang="en">P. Ferreira x Famalicão - Primeira Liga</title>
   </programme>
-  <programme start="20210810180000 +0100" stop="20210810201500 +0100" channel="SPORT TV 1">
+  <programme start="20210809180000 +0100" stop="20210809201500 +0100" channel="SPORT TV 1">
     <title lang="en">Vilafranquense x Penafiel - Segunda Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810201500 +0100" stop="20210810223000 +0100" channel="SPORT TV 1">
+  <programme start="20210809201500 +0100" stop="20210809223000 +0100" channel="SPORT TV 1">
     <title lang="en">Gil Vicente x Boavista - Primeira Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810223000 +0100" stop="20210810233000 +0100" channel="SPORT TV 1">
+  <programme start="20210809223000 +0100" stop="20210809233000 +0100" channel="SPORT TV 1">
     <title lang="en">Antevisão Da Época</title>
   </programme>
-  <programme start="20210810233000 +0100" stop="20210810233000 +0100" channel="SPORT TV 1">
+  <programme start="20210809233000 +0100" stop="20210809233000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane</title>
   </programme>
-  <programme start="20210810233000 +0100" stop="20210811003000 +0100" channel="SPORT TV 1">
+  <programme start="20210809233000 +0100" stop="20210810003000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane</title>
   </programme>
-  <programme start="20210811003000 +0100" stop="20210811013000 +0100" channel="SPORT TV 1">
+  <programme start="20210810003000 +0100" stop="20210810013000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: The Ultimate Fighter - 7º Episódio - UFC</title>
   </programme>
-  <programme start="20210811013000 +0100" stop="20210811020000 +0100" channel="SPORT TV 1">
+  <programme start="20210810013000 +0100" stop="20210810020000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210811020000 +0100" stop="20210811035000 +0100" channel="SPORT TV 1">
+  <programme start="20210810020000 +0100" stop="20210810035000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Viktoria Koln x Hoffenheim - Taça da Alemanha</title>
   </programme>
-  <programme start="20210811035000 +0100" stop="20210811055000 +0100" channel="SPORT TV 1">
+  <programme start="20210810035000 +0100" stop="20210810055000 +0100" channel="SPORT TV 1">
     <title lang="en">Kaiserslautern x B. Mönchengladbach - Taça da Alemanha</title>
   </programme>
-  <programme start="20210811055000 +0100" stop="20210811062000 +0100" channel="SPORT TV 1">
+  <programme start="20210810055000 +0100" stop="20210810062000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210811062000 +0100" stop="20210811065000 +0100" channel="SPORT TV 1">
+  <programme start="20210810062000 +0100" stop="20210810065000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
   </programme>
-  <programme start="20210811065000 +0100" stop="20210811072000 +0100" channel="SPORT TV 1">
+  <programme start="20210810065000 +0100" stop="20210810072000 +0100" channel="SPORT TV 1">
     <title lang="en">Bétis x Roma - Jogo de Preparação</title>
   </programme>
-  <programme start="20210811072000 +0100" stop="20210811091000 +0100" channel="SPORT TV 1">
+  <programme start="20210810072000 +0100" stop="20210810091000 +0100" channel="SPORT TV 1">
     <title lang="en">Vilafranquense x Penafiel - Segunda Liga</title>
   </programme>
-  <programme start="20210811091000 +0100" stop="20210811112000 +0100" channel="SPORT TV 1">
+  <programme start="20210810091000 +0100" stop="20210810112000 +0100" channel="SPORT TV 1">
     <title lang="en">Gil Vicente x Boavista - Primeira Liga</title>
   </programme>
-  <programme start="20210811112000 +0100" stop="20210811133000 +0100" channel="SPORT TV 1">
+  <programme start="20210810112000 +0100" stop="20210810133000 +0100" channel="SPORT TV 1">
     <title lang="en">Sporting x Vizela - Primeira Liga</title>
   </programme>
-  <programme start="20210811133000 +0100" stop="20210811154000 +0100" channel="SPORT TV 1">
+  <programme start="20210810133000 +0100" stop="20210810154000 +0100" channel="SPORT TV 1">
     <title lang="en">Moreirense x Benfica - Primeira Liga</title>
   </programme>
-  <programme start="20210811154000 +0100" stop="20210811180000 +0100" channel="SPORT TV 1">
+  <programme start="20210810154000 +0100" stop="20210810180000 +0100" channel="SPORT TV 1">
     <title lang="en">FC Porto x Belenenses SAD - Primeira Liga</title>
   </programme>
-  <programme start="20210811180000 +0100" stop="20210811200000 +0100" channel="SPORT TV 1">
+  <programme start="20210810180000 +0100" stop="20210810200000 +0100" channel="SPORT TV 1">
     <title lang="en">Leixões x Farense - Segunda Liga &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210811200000 +0100" stop="20210811210000 +0100" channel="SPORT TV 1">
+  <programme start="20210810200000 +0100" stop="20210810210000 +0100" channel="SPORT TV 1">
     <title lang="en">Antevisão Da Época</title>
   </programme>
-  <programme start="20210811210000 +0100" stop="20210811213000 +0100" channel="SPORT TV 1">
+  <programme start="20210810210000 +0100" stop="20210810213000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
   </programme>
-  <programme start="20210811213000 +0100" stop="20210811220000 +0100" channel="SPORT TV 1">
+  <programme start="20210810213000 +0100" stop="20210810220000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210811220000 +0100" stop="20210811223000 +0100" channel="SPORT TV 1">
+  <programme start="20210810220000 +0100" stop="20210810223000 +0100" channel="SPORT TV 1">
     <title lang="en">Taça da Alemanha: 1ª Eliminatória (Resumo)</title>
   </programme>
-  <programme start="20210811223000 +0100" stop="20210811231500 +0100" channel="SPORT TV 1">
+  <programme start="20210810223000 +0100" stop="20210810231500 +0100" channel="SPORT TV 1">
     <title lang="en">Resumos (Resumo)</title>
   </programme>
-  <programme start="20210811231500 +0100" stop="20210811231500 +0100" channel="SPORT TV 1">
+  <programme start="20210810231500 +0100" stop="20210810231500 +0100" channel="SPORT TV 1">
     <title lang="en">Rosario Central x Bragantino - Copa Sul-Americana &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210811231500 +0100" stop="20210812013000 +0100" channel="SPORT TV 1">
+  <programme start="20210810231500 +0100" stop="20210811013000 +0100" channel="SPORT TV 1">
     <title lang="en">Rosario Central x Bragantino - Copa Sul-Americana &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812013000 +0100" stop="20210812033000 +0100" channel="SPORT TV 1">
+  <programme start="20210811013000 +0100" stop="20210811033000 +0100" channel="SPORT TV 1">
     <title lang="en">São Paulo x Palmeiras - Taça dos Libertadores &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812033000 +0100" stop="20210812043000 +0100" channel="SPORT TV 1">
+  <programme start="20210811033000 +0100" stop="20210811043000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: The Ultimate Fighter - 7º Episódio - UFC</title>
   </programme>
-  <programme start="20210812043000 +0100" stop="20210812063000 +0100" channel="SPORT TV 1">
+  <programme start="20210811043000 +0100" stop="20210811063000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
   </programme>
-  <programme start="20210812063000 +0100" stop="20210812083000 +0100" channel="SPORT TV 1">
+  <programme start="20210811063000 +0100" stop="20210811083000 +0100" channel="SPORT TV 1">
     <title lang="en">Barcelona x Juventus - Jogo de Preparação</title>
   </programme>
-  <programme start="20210812083000 +0100" stop="20210812103000 +0100" channel="SPORT TV 1">
+  <programme start="20210811083000 +0100" stop="20210811103000 +0100" channel="SPORT TV 1">
     <title lang="en">Leixões x Farense - Segunda Liga</title>
   </programme>
-  <programme start="20210812103000 +0100" stop="20210812122000 +0100" channel="SPORT TV 1">
+  <programme start="20210811103000 +0100" stop="20210811122000 +0100" channel="SPORT TV 1">
     <title lang="en">Rosario Central x Bragantino - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210812122000 +0100" stop="20210812142000 +0100" channel="SPORT TV 1">
+  <programme start="20210811122000 +0100" stop="20210811142000 +0100" channel="SPORT TV 1">
     <title lang="en">São Paulo x Palmeiras - Taça dos Libertadores</title>
   </programme>
-  <programme start="20210812142000 +0100" stop="20210812162000 +0100" channel="SPORT TV 1">
+  <programme start="20210811142000 +0100" stop="20210811162000 +0100" channel="SPORT TV 1">
     <title lang="en">Derby County x Salford City - Taça da Liga Inglesa</title>
   </programme>
-  <programme start="20210812162000 +0100" stop="20210812181000 +0100" channel="SPORT TV 1">
+  <programme start="20210811162000 +0100" stop="20210811181000 +0100" channel="SPORT TV 1">
     <title lang="en">Bolton x Barnsley - Taça da Liga Inglesa</title>
   </programme>
-  <programme start="20210812181000 +0100" stop="20210812184000 +0100" channel="SPORT TV 1">
+  <programme start="20210811181000 +0100" stop="20210811184000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210812184000 +0100" stop="20210812191000 +0100" channel="SPORT TV 1">
+  <programme start="20210811184000 +0100" stop="20210811191000 +0100" channel="SPORT TV 1">
     <title lang="en">Taça da Alemanha: 1ª Eliminatória (Resumo)</title>
   </programme>
-  <programme start="20210812191000 +0100" stop="20210812194500 +0100" channel="SPORT TV 1">
+  <programme start="20210811191000 +0100" stop="20210811194500 +0100" channel="SPORT TV 1">
     <title lang="en">Resumos (Resumo)</title>
   </programme>
-  <programme start="20210812194500 +0100" stop="20210812214000 +0100" channel="SPORT TV 1">
+  <programme start="20210811194500 +0100" stop="20210811214000 +0100" channel="SPORT TV 1">
     <title lang="en">Leyton Orient x QPR - Taça da Liga Inglesa &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812214000 +0100" stop="20210812221000 +0100" channel="SPORT TV 1">
+  <programme start="20210811214000 +0100" stop="20210811221000 +0100" channel="SPORT TV 1">
     <title lang="en">Segunda Liga: Magazine 2ª Jornada</title>
   </programme>
-  <programme start="20210812221000 +0100" stop="20210812224000 +0100" channel="SPORT TV 1">
+  <programme start="20210811221000 +0100" stop="20210811224000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210812224000 +0100" stop="20210812231500 +0100" channel="SPORT TV 1">
+  <programme start="20210811224000 +0100" stop="20210811231500 +0100" channel="SPORT TV 1">
     <title lang="en">Camp. Argentino: Resumos (Resumo)</title>
   </programme>
-  <programme start="20210812231500 +0100" stop="20210812231500 +0100" channel="SPORT TV 1">
+  <programme start="20210811231500 +0100" stop="20210811231500 +0100" channel="SPORT TV 1">
     <title lang="en">Olímpia x Flamengo - Taça dos Libertadores &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812231500 +0100" stop="20210813013000 +0100" channel="SPORT TV 1">
+  <programme start="20210811231500 +0100" stop="20210812013000 +0100" channel="SPORT TV 1">
     <title lang="en">Olímpia x Flamengo - Taça dos Libertadores &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210813013000 +0100" stop="20210813033000 +0100" channel="SPORT TV 1">
+  <programme start="20210812013000 +0100" stop="20210812033000 +0100" channel="SPORT TV 1">
     <title lang="en">River Plate x Atl. Mineiro - Taça dos Libertadores &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210813033000 +0100" stop="20210813053000 +0100" channel="SPORT TV 1">
+  <programme start="20210812033000 +0100" stop="20210812053000 +0100" channel="SPORT TV 1">
     <title lang="en">SP. Cristal x Peñarol - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210813053000 +0100" stop="20210813072000 +0100" channel="SPORT TV 1">
+  <programme start="20210812053000 +0100" stop="20210812072000 +0100" channel="SPORT TV 1">
     <title lang="en">Rosario Central x Bragantino - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210813072000 +0100" stop="20210813091000 +0100" channel="SPORT TV 1">
+  <programme start="20210812072000 +0100" stop="20210812091000 +0100" channel="SPORT TV 1">
     <title lang="en">São Paulo x Palmeiras - Taça dos Libertadores</title>
   </programme>
-  <programme start="20210813091000 +0100" stop="20210813094000 +0100" channel="SPORT TV 1">
+  <programme start="20210812091000 +0100" stop="20210812094000 +0100" channel="SPORT TV 1">
     <title lang="en">Primeira Liga: 1ª Jornada (Resumo)</title>
   </programme>
-  <programme start="20210813094000 +0100" stop="20210813101000 +0100" channel="SPORT TV 1">
+  <programme start="20210812094000 +0100" stop="20210812101000 +0100" channel="SPORT TV 1">
     <title lang="en">Leicester x Man. City - Community Shield</title>
   </programme>
-  <programme start="20210813101000 +0100" stop="20210813111000 +0100" channel="SPORT TV 1">
+  <programme start="20210812101000 +0100" stop="20210812111000 +0100" channel="SPORT TV 1">
     <title lang="en">Antevisão Da Época</title>
   </programme>
-  <programme start="20210813111000 +0100" stop="20210813130000 +0100" channel="SPORT TV 1">
+  <programme start="20210812111000 +0100" stop="20210812130000 +0100" channel="SPORT TV 1">
     <title lang="en">Leyton Orient x QPR - Taça da Liga Inglesa</title>
   </programme>
-  <programme start="20210813130000 +0100" stop="20210813150000 +0100" channel="SPORT TV 1">
+  <programme start="20210812130000 +0100" stop="20210812150000 +0100" channel="SPORT TV 1">
     <title lang="en">River Plate x Atl. Mineiro - Taça dos Libertadores</title>
   </programme>
-  <programme start="20210813150000 +0100" stop="20210813165000 +0100" channel="SPORT TV 1">
+  <programme start="20210812150000 +0100" stop="20210812165000 +0100" channel="SPORT TV 1">
     <title lang="en">Olímpia x Flamengo - Taça dos Libertadores</title>
   </programme>
-  <programme start="20210813165000 +0100" stop="20210813185000 +0100" channel="SPORT TV 1">
+  <programme start="20210812165000 +0100" stop="20210812185000 +0100" channel="SPORT TV 1">
     <title lang="en">SP. Cristal x Peñarol - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210813185000 +0100" stop="20210813192000 +0100" channel="SPORT TV 1">
+  <programme start="20210812185000 +0100" stop="20210812192000 +0100" channel="SPORT TV 1">
     <title lang="en">Camp. Argentino: Resumos (Resumo)</title>
   </programme>
-  <programme start="20210813192000 +0100" stop="20210813220000 +0100" channel="SPORT TV 1">
+  <programme start="20210812192000 +0100" stop="20210812220000 +0100" channel="SPORT TV 1">
     <title lang="en">Segunda Liga: Magazine 2ª Jornada</title>
   </programme>
-  <programme start="20210813220000 +0100" stop="20210813223000 +0100" channel="SPORT TV 1">
+  <programme start="20210812220000 +0100" stop="20210812223000 +0100" channel="SPORT TV 1">
     <title lang="en">Magazine</title>
   </programme>
-  <programme start="20210813223000 +0100" stop="20210813231500 +0100" channel="SPORT TV 1">
+  <programme start="20210812223000 +0100" stop="20210812231500 +0100" channel="SPORT TV 1">
     <title lang="en">Premier League World</title>
   </programme>
-  <programme start="20210813231500 +0100" stop="20210813231500 +0100" channel="SPORT TV 1">
+  <programme start="20210812231500 +0100" stop="20210812231500 +0100" channel="SPORT TV 1">
     <title lang="en">LDU Quito x Ath. Paranaense - Copa Sul-Americana &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210813231500 +0100" stop="20210814013000 +0100" channel="SPORT TV 1">
+  <programme start="20210812231500 +0100" stop="20210813013000 +0100" channel="SPORT TV 1">
     <title lang="en">LDU Quito x Ath. Paranaense - Copa Sul-Americana &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814013000 +0100" stop="20210814033000 +0100" channel="SPORT TV 1">
+  <programme start="20210813013000 +0100" stop="20210813033000 +0100" channel="SPORT TV 1">
     <title lang="en">A Definir x Barcelona SC - Taça dos Libertadores &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814033000 +0100" stop="20210814043000 +0100" channel="SPORT TV 1">
+  <programme start="20210813033000 +0100" stop="20210813043000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Lewis x Gane</title>
   </programme>
-  <programme start="20210814043000 +0100" stop="20210814053000 +0100" channel="SPORT TV 1">
+  <programme start="20210813043000 +0100" stop="20210813053000 +0100" channel="SPORT TV 1">
     <title lang="en">UFC: Friendly Fire - UFC</title>
   </programme>
-  <programme start="20210814053000 +0100" stop="20210814060000 +0100" channel="SPORT TV 1">
+  <programme start="20210813053000 +0100" stop="20210813060000 +0100" channel="SPORT TV 1">
     <title lang="en">WRC: Rali Bélgica - Antevisão</title>
   </programme>
-  <programme start="20210814060000 +0100" stop="20210814063000 +0100" channel="SPORT TV 1">
+  <programme start="20210813060000 +0100" stop="20210813063000 +0100" channel="SPORT TV 1">
     <title lang="en">Motocrosse: Camp. Mundo - GP Letónia (Resumo)</title>
   </programme>
-  <programme start="20210814063000 +0100" stop="20210814073000 +0100" channel="SPORT TV 1">
+  <programme start="20210813063000 +0100" stop="20210813073000 +0100" channel="SPORT TV 1">
     <title lang="en">MotoGP: GP Styria - MotoGP (Resumo)</title>
   </programme>
-  <programme start="20210814073000 +0100" stop="20210814083000 +0100" channel="SPORT TV 1">
+  <programme start="20210813073000 +0100" stop="20210813083000 +0100" channel="SPORT TV 1">
     <title lang="en">Antevisão Da Época</title>
   </programme>
-  <programme start="20210814083000 +0100" stop="20210814090000 +0100" channel="SPORT TV 1">
+  <programme start="20210813083000 +0100" stop="20210813090000 +0100" channel="SPORT TV 1">
     <title lang="en">Premier League World</title>
   </programme>
-  <programme start="20210814090000 +0100" stop="20210814110000 +0100" channel="SPORT TV 1">
+  <programme start="20210813090000 +0100" stop="20210813110000 +0100" channel="SPORT TV 1">
     <title lang="en">LDU Quito x Ath. Paranaense - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210814110000 +0100" stop="20210814125000 +0100" channel="SPORT TV 1">
+  <programme start="20210813110000 +0100" stop="20210813125000 +0100" channel="SPORT TV 1">
     <title lang="en">Santos x Libertad - Copa Sul-Americana</title>
   </programme>
-  <programme start="20210814125000 +0100" stop="20210814145000 +0100" channel="SPORT TV 1">
+  <programme start="20210813125000 +0100" stop="20210813145000 +0100" channel="SPORT TV 1">
     <title lang="en">A Definir</title>
-  </programme>
-  <programme start="20210814145000 +0100" stop="20210814224000 +0100" channel="SPORT TV 1">
-    <title lang="en">A Definir x Barcelona SC - Taça dos Libertadores</title>
   </programme>
   <programme start="20210808002500 +0100" stop="20210808005000 +0100" channel="SPORT TV 2">
     <title lang="en">MotoGP: Michelin GP Styria - Moto2 - Qualificação 2</title>
@@ -2213,160 +2208,189 @@
   <programme start="20210814220000 +0100" stop="20210815000000 +0100" channel="SPORT TV 3">
     <title lang="en">Ténis: ATP World Tour 1000 - Toronto &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210808231000 +0100" stop="20210809013000 +0100" channel="SPORT TV 4">
-    <title lang="en">Golfe: Hero Open - 3º Dia - European Tour</title>
-    <desc lang="en">Transmissão do Torneio de Golfe, integrado na European Tour, o circuito profissional europeu de golfe.(n)</desc>
-  </programme>
-  <programme start="20210809013000 +0100" stop="20210809020000 +0100" channel="SPORT TV 4">
+  <programme start="20210808013000 +0100" stop="20210808020000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Zolder - Corrida 1 - DTM</title>
     <desc lang="en">Acompanhe os melhores momentos do Campeonato Alemão de Turismos, no circuito de Lausitzring.(n)</desc>
   </programme>
-  <programme start="20210809020000 +0100" stop="20210809080000 +0100" channel="SPORT TV 4">
+  <programme start="20210808020000 +0100" stop="20210808080000 +0100" channel="SPORT TV 4">
     <title lang="en">Fora d´horas</title>
     <desc lang="en">Fora d´horas.(n)</desc>
   </programme>
-  <programme start="20210809080000 +0100" stop="20210809125000 +0100" channel="SPORT TV 4">
+  <programme start="20210808080000 +0100" stop="20210808125000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Fedex St. Jude Invitational - 3º Dia</title>
     <desc lang="en">Transmissão do Torneio de Golfe, integrado no World Golf Championships.(n)</desc>
   </programme>
-  <programme start="20210809125000 +0100" stop="20210809130000 +0100" channel="SPORT TV 4">
+  <programme start="20210808125000 +0100" stop="20210808130000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: FPG - Campeonato Nacional Absoluto</title>
     <desc lang="en">Transmissão de Campeonato da Federação Portuguesa de Golfe.(n)</desc>
   </programme>
-  <programme start="20210809130000 +0100" stop="20210809173000 +0100" channel="SPORT TV 4">
+  <programme start="20210808130000 +0100" stop="20210808173000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Hero Open - 4º Dia - European Tour &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do Torneio de Golfe, integrado na European Tour, o circuito profissional europeu de golfe.(n)</desc>
   </programme>
-  <programme start="20210809173000 +0100" stop="20210809230000 +0100" channel="SPORT TV 4">
+  <programme start="20210808173000 +0100" stop="20210808230000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Fedex St. Jude Invitational - 4º Dia &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
     <desc lang="en">Transmissão do Torneio de Golfe, integrado no World Golf Championships.(n)</desc>
   </programme>
-  <programme start="20210809230000 +0100" stop="20210809230000 +0100" channel="SPORT TV 4">
+  <programme start="20210808230000 +0100" stop="20210808230000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Hero Open - 4º Dia - European Tour</title>
     <desc lang="en">Transmissão do Torneio de Golfe, integrado na European Tour, o circuito profissional europeu de golfe.(n)</desc>
   </programme>
-  <programme start="20210809230000 +0100" stop="20210810014000 +0100" channel="SPORT TV 4">
+  <programme start="20210808230000 +0100" stop="20210809014000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Hero Open - 4º Dia - European Tour</title>
   </programme>
-  <programme start="20210810014000 +0100" stop="20210810030000 +0100" channel="SPORT TV 4">
+  <programme start="20210809014000 +0100" stop="20210809030000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Zolder - Corrida 2 - DTM</title>
   </programme>
-  <programme start="20210810030000 +0100" stop="20210810120000 +0100" channel="SPORT TV 4">
+  <programme start="20210809030000 +0100" stop="20210809120000 +0100" channel="SPORT TV 4">
     <title lang="en">Fora d´horas</title>
   </programme>
-  <programme start="20210810120000 +0100" stop="20210810125000 +0100" channel="SPORT TV 4">
+  <programme start="20210809120000 +0100" stop="20210809125000 +0100" channel="SPORT TV 4">
     <title lang="en">Staysure Pga Seniors Championship (Resumo)</title>
   </programme>
-  <programme start="20210810125000 +0100" stop="20210810172000 +0100" channel="SPORT TV 4">
+  <programme start="20210809125000 +0100" stop="20210809172000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Fedex St. Jude Invitational - 4º Dia</title>
   </programme>
-  <programme start="20210810172000 +0100" stop="20210810173000 +0100" channel="SPORT TV 4">
+  <programme start="20210809172000 +0100" stop="20210809173000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: FPG - Campeonato Nacional Absoluto</title>
   </programme>
-  <programme start="20210810173000 +0100" stop="20210810193000 +0100" channel="SPORT TV 4">
+  <programme start="20210809173000 +0100" stop="20210809193000 +0100" channel="SPORT TV 4">
     <title lang="en">FC Viktoria Koln x Hoffenheim - Taça da Alemanha &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210810193000 +0100" stop="20210810204000 +0100" channel="SPORT TV 4">
+  <programme start="20210809193000 +0100" stop="20210809204000 +0100" channel="SPORT TV 4">
     <title lang="en">MotoGP: Michelin GP Styria - MotoGP - Corrida</title>
   </programme>
-  <programme start="20210810204000 +0100" stop="20210810230000 +0100" channel="SPORT TV 4">
+  <programme start="20210809204000 +0100" stop="20210809230000 +0100" channel="SPORT TV 4">
     <title lang="en">IndyCar Series: Big Machine Music City Grand Prix</title>
   </programme>
-  <programme start="20210810230000 +0100" stop="20210810233000 +0100" channel="SPORT TV 4">
+  <programme start="20210809230000 +0100" stop="20210809233000 +0100" channel="SPORT TV 4">
     <title lang="en">WRC: Rali Bélgica (Antevisão)</title>
+  </programme>
+  <programme start="20210809233000 +0100" stop="20210810000000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Countdown To The Ryder Cup 1 - The Captain</title>
+  </programme>
+  <programme start="20210810000000 +0100" stop="20210810233000 +0100" channel="SPORT TV 4">
+    <title lang="en">Vela: Sailing to Tokyo</title>
   </programme>
   <programme start="20210810233000 +0100" stop="20210811000000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Countdown To The Ryder Cup 1 - The Captain</title>
   </programme>
-  <programme start="20210811000000 +0100" stop="20210811233000 +0100" channel="SPORT TV 4">
+  <programme start="20210811000000 +0100" stop="20210811003000 +0100" channel="SPORT TV 4">
     <title lang="en">Vela: Sailing to Tokyo</title>
   </programme>
-  <programme start="20210811233000 +0100" stop="20210812000000 +0100" channel="SPORT TV 4">
-    <title lang="en">Golfe: Countdown To The Ryder Cup 1 - The Captain</title>
-  </programme>
-  <programme start="20210812000000 +0100" stop="20210812003000 +0100" channel="SPORT TV 4">
-    <title lang="en">Vela: Sailing to Tokyo</title>
-  </programme>
-  <programme start="20210812003000 +0100" stop="20210812010000 +0100" channel="SPORT TV 4">
+  <programme start="20210811003000 +0100" stop="20210811010000 +0100" channel="SPORT TV 4">
     <title lang="en">One Championship - One Weekly</title>
   </programme>
-  <programme start="20210812010000 +0100" stop="20210812020000 +0100" channel="SPORT TV 4">
+  <programme start="20210811010000 +0100" stop="20210811020000 +0100" channel="SPORT TV 4">
     <title lang="en">Wrestling: RAW &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210812020000 +0100" stop="20210812130000 +0100" channel="SPORT TV 4">
+  <programme start="20210811020000 +0100" stop="20210811130000 +0100" channel="SPORT TV 4">
     <title lang="en">Fora d´horas</title>
   </programme>
-  <programme start="20210812130000 +0100" stop="20210812141500 +0100" channel="SPORT TV 4">
+  <programme start="20210811130000 +0100" stop="20210811141500 +0100" channel="SPORT TV 4">
     <title lang="en">MotoGP: Michelin GP Styria - Moto3 - Corrida</title>
   </programme>
-  <programme start="20210812141500 +0100" stop="20210812153000 +0100" channel="SPORT TV 4">
+  <programme start="20210811141500 +0100" stop="20210811153000 +0100" channel="SPORT TV 4">
     <title lang="en">MotoGP: Michelin GP Styria - Moto2 - Corrida</title>
   </programme>
-  <programme start="20210812153000 +0100" stop="20210812164500 +0100" channel="SPORT TV 4">
+  <programme start="20210811153000 +0100" stop="20210811164500 +0100" channel="SPORT TV 4">
     <title lang="en">MotoGP: Michelin GP Styria - MotoGP - Corrida</title>
   </programme>
-  <programme start="20210812164500 +0100" stop="20210812194500 +0100" channel="SPORT TV 4">
+  <programme start="20210811164500 +0100" stop="20210811194500 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Hero Open - 4º Dia - European Tour</title>
   </programme>
-  <programme start="20210812194500 +0100" stop="20210812214000 +0100" channel="SPORT TV 4">
+  <programme start="20210811194500 +0100" stop="20210811214000 +0100" channel="SPORT TV 4">
     <title lang="en">Derby County x Salford City - Taça da Liga Inglesa &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210811214000 +0100" stop="20210812000000 +0100" channel="SPORT TV 4">
+    <title lang="en">Wrestling: RAW</title>
+  </programme>
+  <programme start="20210812000000 +0100" stop="20210812214000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Hero Open - European Tour (Resumo)</title>
   </programme>
   <programme start="20210812214000 +0100" stop="20210813000000 +0100" channel="SPORT TV 4">
     <title lang="en">Wrestling: RAW</title>
   </programme>
-  <programme start="20210813000000 +0100" stop="20210813214000 +0100" channel="SPORT TV 4">
+  <programme start="20210813000000 +0100" stop="20210813003000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Hero Open - European Tour (Resumo)</title>
   </programme>
-  <programme start="20210813214000 +0100" stop="20210814000000 +0100" channel="SPORT TV 4">
-    <title lang="en">Wrestling: RAW</title>
-  </programme>
-  <programme start="20210814000000 +0100" stop="20210814003000 +0100" channel="SPORT TV 4">
-    <title lang="en">Golfe: Hero Open - European Tour (Resumo)</title>
-  </programme>
-  <programme start="20210814003000 +0100" stop="20210814010000 +0100" channel="SPORT TV 4">
+  <programme start="20210813003000 +0100" stop="20210813010000 +0100" channel="SPORT TV 4">
     <title lang="en">Gearing Up - Magazine 7</title>
   </programme>
-  <programme start="20210814010000 +0100" stop="20210814020000 +0100" channel="SPORT TV 4">
+  <programme start="20210813010000 +0100" stop="20210813020000 +0100" channel="SPORT TV 4">
     <title lang="en">Wrestling: NXT &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
   </programme>
-  <programme start="20210814020000 +0100" stop="20210814130000 +0100" channel="SPORT TV 4">
+  <programme start="20210813020000 +0100" stop="20210813130000 +0100" channel="SPORT TV 4">
     <title lang="en">Fora d´horas</title>
   </programme>
-  <programme start="20210814130000 +0100" stop="20210814133000 +0100" channel="SPORT TV 4">
+  <programme start="20210813130000 +0100" stop="20210813133000 +0100" channel="SPORT TV 4">
     <title lang="en">Gearing Up - Magazine 7</title>
   </programme>
-  <programme start="20210814133000 +0100" stop="20210814140000 +0100" channel="SPORT TV 4">
+  <programme start="20210813133000 +0100" stop="20210813140000 +0100" channel="SPORT TV 4">
     <title lang="en">WRC: Rali Bélgica</title>
   </programme>
-  <programme start="20210814140000 +0100" stop="20210814162000 +0100" channel="SPORT TV 4">
+  <programme start="20210813140000 +0100" stop="20210813162000 +0100" channel="SPORT TV 4">
     <title lang="en">IndyCar Series: Big Machine Music City Grand Prix</title>
   </programme>
-  <programme start="20210814162000 +0100" stop="20210814173000 +0100" channel="SPORT TV 4">
+  <programme start="20210813162000 +0100" stop="20210813173000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Zolder - Corrida 1 - DTM</title>
   </programme>
-  <programme start="20210814173000 +0100" stop="20210814184000 +0100" channel="SPORT TV 4">
+  <programme start="20210813173000 +0100" stop="20210813184000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Zolder - Corrida 2 - DTM</title>
   </programme>
-  <programme start="20210814184000 +0100" stop="20210814194000 +0100" channel="SPORT TV 4">
+  <programme start="20210813184000 +0100" stop="20210813194000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Trophy 2021 - Zolder - Corrida 2 - DTM</title>
   </programme>
-  <programme start="20210814194000 +0100" stop="20210814204000 +0100" channel="SPORT TV 4">
+  <programme start="20210813194000 +0100" stop="20210813204000 +0100" channel="SPORT TV 4">
     <title lang="en">Automobilismo: Trophy 2021 - Zolder - Corrida 1 - DTM</title>
   </programme>
-  <programme start="20210814204000 +0100" stop="20210814221000 +0100" channel="SPORT TV 4">
+  <programme start="20210813204000 +0100" stop="20210813221000 +0100" channel="SPORT TV 4">
     <title lang="en">MotoGP: Michelin GP Styria - MotoGP - Corrida</title>
   </programme>
-  <programme start="20210814221000 +0100" stop="20210814222000 +0100" channel="SPORT TV 4">
+  <programme start="20210813221000 +0100" stop="20210813222000 +0100" channel="SPORT TV 4">
     <title lang="en">Motocrosse: Camp. Mundo - GP Letónia (Resumo)</title>
   </programme>
-  <programme start="20210814222000 +0100" stop="20210814234000 +0100" channel="SPORT TV 4">
+  <programme start="20210813222000 +0100" stop="20210813234000 +0100" channel="SPORT TV 4">
     <title lang="en">Golfe: Fedex St. Jude Invitational (Resumo)</title>
   </programme>
-  <programme start="20210814234000 +0100" stop="20210814234000 +0100" channel="SPORT TV 4">
+  <programme start="20210813234000 +0100" stop="20210813234000 +0100" channel="SPORT TV 4">
     <title lang="en">UFC: Friendly Fire - Episódio 7</title>
   </programme>
-  <programme start="20210814234000 +0100" stop="20210815002000 +0100" channel="SPORT TV 4">
+  <programme start="20210813234000 +0100" stop="20210814002000 +0100" channel="SPORT TV 4">
     <title lang="en">UFC: Friendly Fire - Episódio 7</title>
+  </programme>
+  <programme start="20210814002000 +0100" stop="20210814012000 +0100" channel="SPORT TV 4">
+    <title lang="en">Wrestling: NXT</title>
+  </programme>
+  <programme start="20210814012000 +0100" stop="20210814120000 +0100" channel="SPORT TV 4">
+    <title lang="en">Fora d´horas</title>
+  </programme>
+  <programme start="20210814120000 +0100" stop="20210814123000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Hero Open - European Tour (Resumo)</title>
+  </programme>
+  <programme start="20210814123000 +0100" stop="20210814180000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Cazoo Classic - 1º Dia - European Tour &lt;span class="site_color fs11 dib_mobile"&gt;(EM DIRECTO)&lt;/span&gt;</title>
+  </programme>
+  <programme start="20210814180000 +0100" stop="20210814183000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Countdown To The Ryder Cup 1 - The Captain</title>
+  </programme>
+  <programme start="20210814183000 +0100" stop="20210814190000 +0100" channel="SPORT TV 4">
+    <title lang="en">Motocrosse: Camp. Mundo - GP Letónia (Resumo)</title>
+  </programme>
+  <programme start="20210814190000 +0100" stop="20210814193000 +0100" channel="SPORT TV 4">
+    <title lang="en">Automobilismo: Rali Vinho da Madeira</title>
+  </programme>
+  <programme start="20210814193000 +0100" stop="20210814203000 +0100" channel="SPORT TV 4">
+    <title lang="en">IndyCar Series: Big Machine Music City Grand Prix (Resumo)</title>
+  </programme>
+  <programme start="20210814203000 +0100" stop="20210814213000 +0100" channel="SPORT TV 4">
+    <title lang="en">Automobilismo: DTM - Zolder - DTM (Resumo)</title>
+  </programme>
+  <programme start="20210814213000 +0100" stop="20210814223000 +0100" channel="SPORT TV 4">
+    <title lang="en">MotoGP: Michelin GP Styria - MotoGP (Resumo)</title>
+  </programme>
+  <programme start="20210814223000 +0100" stop="20210815000000 +0100" channel="SPORT TV 4">
+    <title lang="en">Golfe: Cazoo Classic - 1º Dia - European Tour</title>
   </programme>
   <programme start="20210808000000 +0100" stop="20210808003500 +0100" channel="SPORT TV 5">
     <title lang="en">Fora De Horas - Sem Transmissão</title>
