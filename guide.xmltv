@@ -3,57 +3,57 @@
   <channel id="eleven-sports-1">
     <display-name lang="en">ELEVEN SPORTS 1</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-1.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-1.png">
   </channel>
   <channel id="eleven-sports-2">
     <display-name lang="en">ELEVEN SPORTS 2</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-2.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-2.png">
   </channel>
   <channel id="eleven-sports-3">
     <display-name lang="en">ELEVEN SPORTS 3</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-3.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-3.png">
   </channel>
   <channel id="eleven-sports-4">
     <display-name lang="en">ELEVEN SPORTS 4</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-4.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-4.png">
   </channel>
   <channel id="eleven-sports-5">
     <display-name lang="en">ELEVEN SPORTS 5</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-5.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-5.png">
   </channel>
   <channel id="eleven-sports-6">
     <display-name lang="en">ELEVEN SPORTS 6</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/eleven-6.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/eleven-6.png">
   </channel>
   <channel id="sport-tv1">
     <display-name lang="en">SPORT TV 1</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png">
   </channel>
   <channel id="sport-tv2">
     <display-name lang="en">SPORT TV 2</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png">
   </channel>
   <channel id="sport-tv3">
     <display-name lang="en">SPORT TV 3</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png">
   </channel>
   <channel id="sport-tv4">
     <display-name lang="en">SPORT TV 4</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png">
   </channel>
   <channel id="sport-tv5">
     <display-name lang="en">SPORT TV 5</display-name>
     <url>http://www.tudonumclick.com</url>
-    <img src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png">
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png">
   </channel>
   <programme start="20210812014500 +0100" stop="20210812020000 +0100" channel="eleven-sports-1">
     <title lang="en">Final da UCL, Filme Oficial</title>
