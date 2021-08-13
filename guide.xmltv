@@ -3,46 +3,57 @@
   <channel id="ELEVEN SPORTS 1">
     <display-name lang="en">ELEVEN SPORTS 1</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_1.png"/>
   </channel>
   <channel id="ELEVEN SPORTS 2">
     <display-name lang="en">ELEVEN SPORTS 2</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_2.png"/>
   </channel>
   <channel id="ELEVEN SPORTS 3">
     <display-name lang="en">ELEVEN SPORTS 3</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_3.png"/>
   </channel>
   <channel id="ELEVEN SPORTS 4">
     <display-name lang="en">ELEVEN SPORTS 4</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_4.png"/>
   </channel>
   <channel id="ELEVEN SPORTS 5">
     <display-name lang="en">ELEVEN SPORTS 5</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_5.png"/>
   </channel>
   <channel id="ELEVEN SPORTS 6">
     <display-name lang="en">ELEVEN SPORTS 6</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/ELEVEN_SPORTS_6.png"/>
   </channel>
   <channel id="SPORT TV 1">
     <display-name lang="en">SPORT TV 1</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/SPORT_TV_1.png"/>
   </channel>
   <channel id="SPORT TV 2">
     <display-name lang="en">SPORT TV 2</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/SPORT_TV_2.png"/>
   </channel>
   <channel id="SPORT TV 3">
     <display-name lang="en">SPORT TV 3</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/SPORT_TV_3.png"/>
   </channel>
   <channel id="SPORT TV 4">
     <display-name lang="en">SPORT TV 4</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/SPORT_TV_4.png"/>
   </channel>
   <channel id="SPORT TV 5">
     <display-name lang="en">SPORT TV 5</display-name>
     <url>http://www.tudonumclick.com</url>
+    <icon src="https://raw.githubusercontent.com/smarteight/IPTV/main/logos/SPORT_TV_5.png"/>
   </channel>
   <programme start="20210813003000 +0100" stop="20210813010000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="en">LaLiga World</title>
